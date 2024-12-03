@@ -1,8 +1,17 @@
+# Ignore virtual environment directories
 venv/
+
+# Ignore Python cache files and compiled bytecode
 __pycache__/
 *.pyc
+
+# Ignore VSCode settings folder
 .vscode/
+
+# Ignore environment variable files
 .env
+
+# Ignore specific Python scripts and notebooks
 cleaningpdfs.py
 pineconerugby2.ipynb
 pineconerugby5.py
