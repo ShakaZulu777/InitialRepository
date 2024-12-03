@@ -1116,7 +1116,7 @@
         "kind": 5,
         "importPath": "pineconerugby5",
         "description": "pineconerugby5",
-        "peekOfCode": "openai_api_key = os.getenv(\"OPENAI_API_KEY\")\npinecone_api_key = os.getenv(\"PINECONE_API_KEY\")\n# Validate API Keys\nif not openai_api_key or not pinecone_api_key:\n    st.error(\"API keys are missing. Please check your .env file.\")\n    st.stop()\ntry:\n    # Initialize Pinecone client\n    pc = Pinecone(api_key=pinecone_api_key)\n    # Set the index name",
+        "peekOfCode": "openai_api_key = os.getenv(\"OPENAI_API_KEY\")\npinecone_api_key = os.getenv(\"PINECONE_API_KEY\")\ntry:\n    # Initialize Pinecone client\n    pc = Pinecone(api_key=pinecone_api_key)\n    # Set the index name\n    index_name = \"pinecone-chatbot2\"\n    # Check if the index exists; if not, create it\n    if index_name not in pc.list_indexes().names():\n        pc.create_index(",
         "detail": "pineconerugby5",
         "documentation": {}
     },
@@ -1125,7 +1125,7 @@
         "kind": 5,
         "importPath": "pineconerugby5",
         "description": "pineconerugby5",
-        "peekOfCode": "pinecone_api_key = os.getenv(\"PINECONE_API_KEY\")\n# Validate API Keys\nif not openai_api_key or not pinecone_api_key:\n    st.error(\"API keys are missing. Please check your .env file.\")\n    st.stop()\ntry:\n    # Initialize Pinecone client\n    pc = Pinecone(api_key=pinecone_api_key)\n    # Set the index name\n    index_name = \"pinecone-chatbot2\"",
+        "peekOfCode": "pinecone_api_key = os.getenv(\"PINECONE_API_KEY\")\ntry:\n    # Initialize Pinecone client\n    pc = Pinecone(api_key=pinecone_api_key)\n    # Set the index name\n    index_name = \"pinecone-chatbot2\"\n    # Check if the index exists; if not, create it\n    if index_name not in pc.list_indexes().names():\n        pc.create_index(\n            name=index_name,",
         "detail": "pineconerugby5",
         "documentation": {}
     },

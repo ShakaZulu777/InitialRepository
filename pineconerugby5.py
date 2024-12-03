@@ -12,14 +12,11 @@ from pinecone import Pinecone, ServerlessSpec
 # Load environment variables from .env file
 load_dotenv()
 
-# Set your API keys securely
+
+# Set your API keys
+# Access the environment variables
 openai_api_key = os.getenv("OPENAI_API_KEY")
 pinecone_api_key = os.getenv("PINECONE_API_KEY")
-
-# Validate API Keys
-if not openai_api_key or not pinecone_api_key:
-    st.error("API keys are missing. Please check your .env file.")
-    st.stop()
 
 try:
     # Initialize Pinecone client
@@ -46,7 +43,7 @@ try:
         embeddings = OpenAIEmbeddings(
             model="text-embedding-ada-002",
             openai_api_key=openai_api_key
-        )
+            )
 
         # Initialize vector store using LangChain's Pinecone wrapper
         vectorstore = LangChainPinecone(
@@ -65,7 +62,7 @@ try:
             model_name="gpt-4",
             temperature=0,
             openai_api_key=openai_api_key
-        )
+            )
 
         # Create prompt template
         template = """Answer the following question about rugby rules based on the given context. 
