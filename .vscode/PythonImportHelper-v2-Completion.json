@@ -1,0 +1,2695 @@
+[
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Container",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TextIO",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "cast",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Container",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Match",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TextIO",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentParser",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pdfminer",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfminer",
+        "description": "pdfminer",
+        "detail": "pdfminer",
+        "documentation": {}
+    },
+    {
+        "label": "PDFDocument",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {}
+    },
+    {
+        "label": "PDFNoOutlines",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {}
+    },
+    {
+        "label": "PDFXRefFallback",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {}
+    },
+    {
+        "label": "PDFPage",
+        "importPath": "pdfminer.pdfpage",
+        "description": "pdfminer.pdfpage",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfpage",
+        "documentation": {}
+    },
+    {
+        "label": "PDFParser",
+        "importPath": "pdfminer.pdfparser",
+        "description": "pdfminer.pdfparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfparser",
+        "documentation": {}
+    },
+    {
+        "label": "PDFObjectNotFound",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "PDFValueError",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "PDFStream",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "PDFObjRef",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "resolve1",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "stream_value",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "PSKeyword",
+        "importPath": "pdfminer.psparser",
+        "description": "pdfminer.psparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.psparser",
+        "documentation": {}
+    },
+    {
+        "label": "PSLiteral",
+        "importPath": "pdfminer.psparser",
+        "description": "pdfminer.psparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.psparser",
+        "documentation": {}
+    },
+    {
+        "label": "LIT",
+        "importPath": "pdfminer.psparser",
+        "description": "pdfminer.psparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.psparser",
+        "documentation": {}
+    },
+    {
+        "label": "isnumber",
+        "importPath": "pdfminer.utils",
+        "description": "pdfminer.utils",
+        "isExtraImport": true,
+        "detail": "pdfminer.utils",
+        "documentation": {}
+    },
+    {
+        "label": "AnyIO",
+        "importPath": "pdfminer.utils",
+        "description": "pdfminer.utils",
+        "isExtraImport": true,
+        "detail": "pdfminer.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pdfminer.high_level",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfminer.high_level",
+        "description": "pdfminer.high_level",
+        "detail": "pdfminer.high_level",
+        "documentation": {}
+    },
+    {
+        "label": "LAParams",
+        "importPath": "pdfminer.layout",
+        "description": "pdfminer.layout",
+        "isExtraImport": true,
+        "detail": "pdfminer.layout",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "sysconfig",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sysconfig",
+        "description": "sysconfig",
+        "detail": "sysconfig",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "winreg",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "winreg",
+        "description": "winreg",
+        "detail": "winreg",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "CalledProcessError",
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "isExtraImport": true,
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "isExtraImport": true,
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "SAMPLE_RATE",
+        "importPath": "whisper.audio",
+        "description": "whisper.audio",
+        "isExtraImport": true,
+        "detail": "whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "load_audio",
+        "importPath": "whisper.audio",
+        "description": "whisper.audio",
+        "isExtraImport": true,
+        "detail": "whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "log_mel_spectrogram",
+        "importPath": "whisper.audio",
+        "description": "whisper.audio",
+        "isExtraImport": true,
+        "detail": "whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "EnglishTextNormalizer",
+        "importPath": "whisper.normalizers",
+        "description": "whisper.normalizers",
+        "isExtraImport": true,
+        "detail": "whisper.normalizers",
+        "documentation": {}
+    },
+    {
+        "label": "EnglishNumberNormalizer",
+        "importPath": "whisper.normalizers.english",
+        "description": "whisper.normalizers.english",
+        "isExtraImport": true,
+        "detail": "whisper.normalizers.english",
+        "documentation": {}
+    },
+    {
+        "label": "EnglishSpellingNormalizer",
+        "importPath": "whisper.normalizers.english",
+        "description": "whisper.normalizers.english",
+        "isExtraImport": true,
+        "detail": "whisper.normalizers.english",
+        "documentation": {}
+    },
+    {
+        "label": "scipy.ndimage",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "scipy.ndimage",
+        "description": "scipy.ndimage",
+        "detail": "scipy.ndimage",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Tensor",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "dtw_cpu",
+        "importPath": "whisper.timing",
+        "description": "whisper.timing",
+        "isExtraImport": true,
+        "detail": "whisper.timing",
+        "documentation": {}
+    },
+    {
+        "label": "dtw_cuda",
+        "importPath": "whisper.timing",
+        "description": "whisper.timing",
+        "isExtraImport": true,
+        "detail": "whisper.timing",
+        "documentation": {}
+    },
+    {
+        "label": "median_filter",
+        "importPath": "whisper.timing",
+        "description": "whisper.timing",
+        "isExtraImport": true,
+        "detail": "whisper.timing",
+        "documentation": {}
+    },
+    {
+        "label": "get_tokenizer",
+        "importPath": "whisper.tokenizer",
+        "description": "whisper.tokenizer",
+        "isExtraImport": true,
+        "detail": "whisper.tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "get_tokenizer",
+        "importPath": "whisper.tokenizer",
+        "description": "whisper.tokenizer",
+        "isExtraImport": true,
+        "detail": "whisper.tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "whisper",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "whisper",
+        "description": "whisper",
+        "detail": "whisper",
+        "documentation": {}
+    },
+    {
+        "label": "unicodedata",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unicodedata",
+        "description": "unicodedata",
+        "detail": "unicodedata",
+        "documentation": {}
+    },
+    {
+        "label": "regex",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "regex",
+        "description": "regex",
+        "detail": "regex",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Fraction",
+        "importPath": "fractions",
+        "description": "fractions",
+        "isExtraImport": true,
+        "detail": "fractions",
+        "documentation": {}
+    },
+    {
+        "label": "windowed",
+        "importPath": "more_itertools",
+        "description": "more_itertools",
+        "isExtraImport": true,
+        "detail": "more_itertools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "cached_property",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "replace",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "Categorical",
+        "importPath": "torch.distributions",
+        "description": "torch.distributions",
+        "isExtraImport": true,
+        "detail": "torch.distributions",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "gzip",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gzip",
+        "description": "gzip",
+        "detail": "gzip",
+        "documentation": {}
+    },
+    {
+        "label": "itertools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itertools",
+        "description": "itertools",
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "numba",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numba",
+        "description": "numba",
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "tiktoken",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tiktoken",
+        "description": "tiktoken",
+        "detail": "tiktoken",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "zlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zlib",
+        "description": "zlib",
+        "detail": "zlib",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "pkg_resources",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pkg_resources",
+        "description": "pkg_resources",
+        "detail": "pkg_resources",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "PdfReader",
+        "importPath": "PyPDF2",
+        "description": "PyPDF2",
+        "isExtraImport": true,
+        "detail": "PyPDF2",
+        "documentation": {}
+    },
+    {
+        "label": "FPDF",
+        "importPath": "fpdf",
+        "description": "fpdf",
+        "isExtraImport": true,
+        "detail": "fpdf",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "RetrievalQA",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "escape",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def escape(s: Union[str, bytes]) -> str:\n    if isinstance(s, bytes):\n        us = str(s, \"latin-1\")\n    else:\n        us = s\n    return ESC_PAT.sub(lambda m: \"&#%d;\" % ord(m.group(0)), us)\ndef dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:\n        out.write(\"<null />\")\n        return",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumpxml",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:\n        out.write(\"<null />\")\n        return\n    if isinstance(obj, dict):\n        out.write('<dict size=\"%d\">\\n' % len(obj))\n        for (k, v) in obj.items():\n            out.write(\"<key>%s</key>\\n\" % k)\n            out.write(\"<value>\")\n            dumpxml(out, v)",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumptrailers",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def dumptrailers(\n    out: TextIO, doc: PDFDocument, show_fallback_xref: bool = False\n) -> None:\n    for xref in doc.xrefs:\n        if not isinstance(xref, PDFXRefFallback) or show_fallback_xref:\n            out.write(\"<trailer>\\n\")\n            dumpxml(out, xref.get_trailer())\n            out.write(\"\\n</trailer>\\n\\n\")\n    no_xrefs = all(isinstance(xref, PDFXRefFallback) for xref in doc.xrefs)\n    if no_xrefs and not show_fallback_xref:",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumpallobjs",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def dumpallobjs(\n    out: TextIO,\n    doc: PDFDocument,\n    codec: Optional[str] = None,\n    show_fallback_xref: bool = False,\n) -> None:\n    visited = set()\n    out.write(\"<pdf>\")\n    for xref in doc.xrefs:\n        for objid in xref.get_objids():",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumpoutline",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def dumpoutline(\n    outfp: TextIO,\n    fname: str,\n    objids: Any,\n    pagenos: Container[int],\n    password: str = \"\",\n    dumpall: bool = False,\n    codec: Optional[str] = None,\n    extractdir: Optional[str] = None,\n) -> None:",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "extractembedded",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: Dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get(\"UF\") or cast(bytes, obj.get(\"F\")).decode())\n        fileref = obj[\"EF\"].get(\"UF\") or obj[\"EF\"].get(\"F\")\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = (\n                \"unable to process PDF: reference for %r is not a \"\n                \"PDFStream\" % filename\n            )",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumppdf",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def dumppdf(\n    outfp: TextIO,\n    fname: str,\n    objids: Iterable[int],\n    pagenos: Container[int],\n    password: str = \"\",\n    dumpall: bool = False,\n    codec: Optional[str] = None,\n    extractdir: Optional[str] = None,\n    show_fallback_xref: bool = False,",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "create_parser",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def create_parser() -> ArgumentParser:\n    parser = ArgumentParser(description=__doc__, add_help=True)\n    parser.add_argument(\n        \"files\",\n        type=str,\n        default=None,\n        nargs=\"+\",\n        help=\"One or more paths to PDF files.\",\n    )\n    parser.add_argument(",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def main(argv: Optional[List[str]] = None) -> None:\n    parser = create_parser()\n    args = parser.parse_args(args=argv)\n    if args.debug:\n        logging.getLogger().setLevel(logging.DEBUG)\n    if args.outfile == \"-\":\n        outfp = sys.stdout\n    else:\n        outfp = open(args.outfile, \"w\")\n    if args.objects:",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nESC_PAT = re.compile(r'[\\000-\\037&<>()\"\\042\\047\\134\\177-\\377]')\ndef escape(s: Union[str, bytes]) -> str:\n    if isinstance(s, bytes):\n        us = str(s, \"latin-1\")\n    else:\n        us = s\n    return ESC_PAT.sub(lambda m: \"&#%d;\" % ord(m.group(0)), us)\ndef dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "ESC_PAT",
+        "kind": 5,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "ESC_PAT = re.compile(r'[\\000-\\037&<>()\"\\042\\047\\134\\177-\\377]')\ndef escape(s: Union[str, bytes]) -> str:\n    if isinstance(s, bytes):\n        us = str(s, \"latin-1\")\n    else:\n        us = s\n    return ESC_PAT.sub(lambda m: \"&#%d;\" % ord(m.group(0)), us)\ndef dumpxml(out: TextIO, obj: object, codec: Optional[str] = None) -> None:\n    if obj is None:\n        out.write(\"<null />\")",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "LITERAL_FILESPEC",
+        "kind": 5,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "LITERAL_FILESPEC = LIT(\"Filespec\")\nLITERAL_EMBEDDEDFILE = LIT(\"EmbeddedFile\")\ndef extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: Dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get(\"UF\") or cast(bytes, obj.get(\"F\")).decode())\n        fileref = obj[\"EF\"].get(\"UF\") or obj[\"EF\"].get(\"F\")\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = (\n                \"unable to process PDF: reference for %r is not a \"",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "LITERAL_EMBEDDEDFILE",
+        "kind": 5,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "LITERAL_EMBEDDEDFILE = LIT(\"EmbeddedFile\")\ndef extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: Dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get(\"UF\") or cast(bytes, obj.get(\"F\")).decode())\n        fileref = obj[\"EF\"].get(\"UF\") or obj[\"EF\"].get(\"F\")\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = (\n                \"unable to process PDF: reference for %r is not a \"\n                \"PDFStream\" % filename",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "float_or_disabled",
+        "kind": 2,
+        "importPath": "venv.Scripts.pdf2txt",
+        "description": "venv.Scripts.pdf2txt",
+        "peekOfCode": "def float_or_disabled(x: str) -> Optional[float]:\n    if x.lower().strip() == \"disabled\":\n        return None\n    try:\n        return float(x)\n    except ValueError:\n        raise argparse.ArgumentTypeError(\"invalid float value: {}\".format(x))\ndef extract_text(\n    files: Iterable[str] = [],\n    outfile: str = \"-\",",
+        "detail": "venv.Scripts.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text",
+        "kind": 2,
+        "importPath": "venv.Scripts.pdf2txt",
+        "description": "venv.Scripts.pdf2txt",
+        "peekOfCode": "def extract_text(\n    files: Iterable[str] = [],\n    outfile: str = \"-\",\n    laparams: Optional[LAParams] = None,\n    output_type: str = \"text\",\n    codec: str = \"utf-8\",\n    strip_control: bool = False,\n    maxpages: int = 0,\n    page_numbers: Optional[Container[int]] = None,\n    password: str = \"\",",
+        "detail": "venv.Scripts.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "create_parser",
+        "kind": 2,
+        "importPath": "venv.Scripts.pdf2txt",
+        "description": "venv.Scripts.pdf2txt",
+        "peekOfCode": "def create_parser() -> argparse.ArgumentParser:\n    parser = argparse.ArgumentParser(description=__doc__, add_help=True)\n    parser.add_argument(\n        \"files\",\n        type=str,\n        default=None,\n        nargs=\"+\",\n        help=\"One or more paths to PDF files.\",\n    )\n    parser.add_argument(",
+        "detail": "venv.Scripts.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "venv.Scripts.pdf2txt",
+        "description": "venv.Scripts.pdf2txt",
+        "peekOfCode": "def parse_args(args: Optional[List[str]]) -> argparse.Namespace:\n    parsed_args = create_parser().parse_args(args=args)\n    # Propagate parsed layout parameters to LAParams object\n    if parsed_args.no_laparams:\n        parsed_args.laparams = None\n    else:\n        parsed_args.laparams = LAParams(\n            line_overlap=parsed_args.line_overlap,\n            char_margin=parsed_args.char_margin,\n            line_margin=parsed_args.line_margin,",
+        "detail": "venv.Scripts.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.pdf2txt",
+        "description": "venv.Scripts.pdf2txt",
+        "peekOfCode": "def main(args: Optional[List[str]] = None) -> int:\n    parsed_args = parse_args(args)\n    outfp = extract_text(**vars(parsed_args))\n    outfp.close()\n    return 0\nif __name__ == \"__main__\":\n    sys.exit(main())",
+        "detail": "venv.Scripts.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "OUTPUT_TYPES",
+        "kind": 5,
+        "importPath": "venv.Scripts.pdf2txt",
+        "description": "venv.Scripts.pdf2txt",
+        "peekOfCode": "OUTPUT_TYPES = ((\".htm\", \"html\"), (\".html\", \"html\"), (\".xml\", \"xml\"), (\".tag\", \"tag\"))\ndef float_or_disabled(x: str) -> Optional[float]:\n    if x.lower().strip() == \"disabled\":\n        return None\n    try:\n        return float(x)\n    except ValueError:\n        raise argparse.ArgumentTypeError(\"invalid float value: {}\".format(x))\ndef extract_text(\n    files: Iterable[str] = [],",
+        "detail": "venv.Scripts.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "Tee",
+        "kind": 6,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "class Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except OSError:\n                pass\n        tee_f.write(what)",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "CopyTo",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def CopyTo(desc, src, dest):\n    import win32api\n    import win32con\n    while 1:\n        try:\n            win32api.CopyFile(src, dest, 0)\n            return\n        except win32api.error as details:\n            if details.winerror == 5:  # access denied - user not admin.\n                raise",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "LoadSystemModule",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def LoadSystemModule(lib_dir, modname):\n    # See if this is a debug build.\n    import importlib.machinery\n    import importlib.util\n    suffix = \"_d\" if \"_d.pyd\" in importlib.machinery.EXTENSION_SUFFIXES else \"\"\n    filename = \"%s%d%d%s.dll\" % (\n        modname,\n        sys.version_info.major,\n        sys.version_info.minor,\n        suffix,",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "SetPyKeyVal",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def SetPyKeyVal(key_name, value_name, value):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.CreateKey(root_key, key_name)\n        try:\n            winreg.SetValueEx(my_key, value_name, 0, winreg.REG_SZ, value)\n            if verbose:\n                print(f\"-> {root_key_name}\\\\{key_name}[{value_name}]={value!r}\")\n        finally:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "UnsetPyKeyVal",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def UnsetPyKeyVal(key_name, value_name, delete_key=False):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.OpenKey(root_key, key_name, 0, winreg.KEY_SET_VALUE)\n        try:\n            winreg.DeleteValue(my_key, value_name)\n            if verbose:\n                print(f\"-> DELETE {root_key_name}\\\\{key_name}[{value_name}]\")\n        finally:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterCOMObjects",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterCOMObjects(register=True):\n    import win32com.server.register\n    if register:\n        func = win32com.server.register.RegisterClasses\n    else:\n        func = win32com.server.register.UnregisterClasses\n    flags = {}\n    if not verbose:\n        flags[\"quiet\"] = 1\n    for module, klass_name in com_modules:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterHelpFile",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterHelpFile(register=True, lib_dir=None):\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    if register:\n        # Register the .chm help file.\n        chm_file = os.path.join(lib_dir, \"PyWin32.chm\")\n        if os.path.isfile(chm_file):\n            # This isn't recursive, so if 'Help' doesn't exist, we croak\n            SetPyKeyVal(\"Help\", None, None)\n            SetPyKeyVal(\"Help\\\\Pythonwin Reference\", None, chm_file)",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterPythonwin",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterPythonwin(register=True, lib_dir=None):\n    \"\"\"Add (or remove) Pythonwin to context menu for python scripts.\n    ??? Should probably also add Edit command for pys files also.\n    Also need to remove these keys on uninstall, but there's no function\n        like file_created to add registry entries to uninstall log ???\n    \"\"\"\n    import os\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    classes_root = get_root_hkey()",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_shortcuts_folder",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_shortcuts_folder():\n    if get_root_hkey() == winreg.HKEY_LOCAL_MACHINE:\n        try:\n            fldr = get_special_folder_path(\"CSIDL_COMMON_PROGRAMS\")\n        except OSError:\n            # No CSIDL_COMMON_PROGRAMS on this platform\n            fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")\n    else:\n        # non-admin install - always goes in this user's start menu.\n        fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_dir",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_system_dir():\n    import win32api  # we assume this exists.\n    try:\n        import pythoncom\n        import win32process\n        from win32com.shell import shell, shellcon\n        try:\n            if win32process.IsWow64Process():\n                return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEMX86)\n            return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEM)",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "fixup_dbi",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def fixup_dbi():\n    # We used to have a dbi.pyd with our .pyd files, but now have a .py file.\n    # If the user didn't uninstall, they will find the .pyd which will cause\n    # problems - so handle that.\n    import win32api\n    import win32con\n    pyd_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi.pyd\")\n    pyd_d_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi_d.pyd\")\n    py_name = os.path.join(os.path.dirname(win32con.__file__), \"dbi.py\")\n    for this_pyd in (pyd_name, pyd_d_name):",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "install",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def install(lib_dir):\n    import traceback\n    # The .pth file is now installed as a regular file.\n    # Create the .pth file in the site-packages dir, and use only relative paths\n    # We used to write a .pth directly to sys.prefix - clobber it.\n    if os.path.isfile(os.path.join(sys.prefix, \"pywin32.pth\")):\n        os.unlink(os.path.join(sys.prefix, \"pywin32.pth\"))\n    # The .pth may be new and therefore not loaded in this session.\n    # Setup the paths just in case.\n    for name in \"win32 win32\\\\lib Pythonwin\".split():",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "uninstall",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def uninstall(lib_dir):\n    # First ensure our system modules are loaded from pywin32_system, so\n    # we can remove the ones we copied...\n    LoadSystemModule(lib_dir, \"pywintypes\")\n    LoadSystemModule(lib_dir, \"pythoncom\")\n    try:\n        RegisterCOMObjects(False)\n    except Exception as why:\n        print(f\"Failed to unregister COM objects: {why}\")\n    try:",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verify_destination",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def verify_destination(location):\n    if not os.path.isdir(location):\n        raise argparse.ArgumentTypeError(f'Path \"{location}\" does not exist!')\n    return location\ndef main():\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python pywin32_postinstall.py -install",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python pywin32_postinstall.py -install\n    If you installed pywin32 via a .exe installer, this should be run\n    automatically after installation, but if it fails you can run it again.\n    If you installed pywin32 via PIP, you almost certainly need to run this to\n    setup the environment correctly.",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "tee_f",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "tee_f = open(os.path.join(tempfile.gettempdir(), \"pywin32_postinstall.log\"), \"w\")\nclass Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except OSError:\n                pass",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stderr",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stderr = Tee(sys.stderr)\nsys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "com_modules",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "com_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0\n# Verbosity of output messages.",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "silent",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "silent = 0\n# Verbosity of output messages.\nverbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to PythonXX\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verbose",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "verbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to PythonXX\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created  # type: ignore[used-before-def]\n    # 3.10 stopped supporting bdist_wininst, but we can still build them with 3.9.",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "root_key_name",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_postinstall",
+        "description": "venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "root_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to PythonXX\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created  # type: ignore[used-before-def]\n    # 3.10 stopped supporting bdist_wininst, but we can still build them with 3.9.\n    # This can be kept until Python 3.9 or exe installers support is dropped.",
+        "detail": "venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "run_test",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "def run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()\n    result = subprocess.run(cmd, check=False, cwd=dirname)\n    print(f\"*** Test script '{script}' exited with {result.returncode}\")\n    sys.stdout.flush()\n    if result.returncode:",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_run",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "def find_and_run(possible_locations, extras):\n    for maybe in possible_locations:\n        if os.path.isfile(maybe):\n            run_test(maybe, extras)\n            break\n    else:\n        raise RuntimeError(\n            \"Failed to locate a test script in one of %s\" % possible_locations\n        )\ndef main():",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "def main():\n    import argparse\n    code_directories = [this_dir] + site_packages\n    parser = argparse.ArgumentParser(\n        description=\"A script to trigger tests in all subprojects of PyWin32.\"\n    )\n    parser.add_argument(\n        \"-no-user-interaction\",\n        default=False,\n        action=\"store_true\",",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "this_dir",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "this_dir = os.path.dirname(__file__)\nsite_packages = [\n    site.getusersitepackages(),\n] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "site_packages = [\n    site.getusersitepackages(),\n] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "failures",
+        "kind": 5,
+        "importPath": "venv.Scripts.pywin32_testall",
+        "description": "venv.Scripts.pywin32_testall",
+        "peekOfCode": "failures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()",
+        "detail": "venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "pytest_configure",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.conftest",
+        "description": "youtube-rag.whisper.tests.conftest",
+        "peekOfCode": "def pytest_configure(config):\n    config.addinivalue_line(\"markers\", \"requires_cuda\")\n@pytest.fixture\ndef random():\n    rand.seed(42)\n    numpy.random.seed(42)",
+        "detail": "youtube-rag.whisper.tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.conftest",
+        "description": "youtube-rag.whisper.tests.conftest",
+        "peekOfCode": "def random():\n    rand.seed(42)\n    numpy.random.seed(42)",
+        "detail": "youtube-rag.whisper.tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "test_audio",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.test_audio",
+        "description": "youtube-rag.whisper.tests.test_audio",
+        "peekOfCode": "def test_audio():\n    audio_path = os.path.join(os.path.dirname(__file__), \"jfk.flac\")\n    audio = load_audio(audio_path)\n    assert audio.ndim == 1\n    assert SAMPLE_RATE * 10 < audio.shape[0] < SAMPLE_RATE * 12\n    assert 0 < audio.std() < 1\n    mel_from_audio = log_mel_spectrogram(audio)\n    mel_from_file = log_mel_spectrogram(audio_path)\n    assert np.allclose(mel_from_audio, mel_from_file)\n    assert mel_from_audio.max() - mel_from_audio.min() <= 2.0",
+        "detail": "youtube-rag.whisper.tests.test_audio",
+        "documentation": {}
+    },
+    {
+        "label": "test_number_normalizer",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.test_normalizer",
+        "description": "youtube-rag.whisper.tests.test_normalizer",
+        "peekOfCode": "def test_number_normalizer(std):\n    assert std(\"two\") == \"2\"\n    assert std(\"thirty one\") == \"31\"\n    assert std(\"five twenty four\") == \"524\"\n    assert std(\"nineteen ninety nine\") == \"1999\"\n    assert std(\"twenty nineteen\") == \"2019\"\n    assert std(\"two point five million\") == \"2500000\"\n    assert std(\"four point two billions\") == \"4200000000s\"\n    assert std(\"200 thousand\") == \"200000\"\n    assert std(\"200 thousand dollars\") == \"$200000\"",
+        "detail": "youtube-rag.whisper.tests.test_normalizer",
+        "documentation": {}
+    },
+    {
+        "label": "test_spelling_normalizer",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.test_normalizer",
+        "description": "youtube-rag.whisper.tests.test_normalizer",
+        "peekOfCode": "def test_spelling_normalizer():\n    std = EnglishSpellingNormalizer()\n    assert std(\"mobilisation\") == \"mobilization\"\n    assert std(\"cancelation\") == \"cancellation\"\ndef test_text_normalizer():\n    std = EnglishTextNormalizer()\n    assert std(\"Let's\") == \"let us\"\n    assert std(\"he's like\") == \"he is like\"\n    assert std(\"she's been like\") == \"she has been like\"\n    assert std(\"10km\") == \"10 km\"",
+        "detail": "youtube-rag.whisper.tests.test_normalizer",
+        "documentation": {}
+    },
+    {
+        "label": "test_text_normalizer",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.test_normalizer",
+        "description": "youtube-rag.whisper.tests.test_normalizer",
+        "peekOfCode": "def test_text_normalizer():\n    std = EnglishTextNormalizer()\n    assert std(\"Let's\") == \"let us\"\n    assert std(\"he's like\") == \"he is like\"\n    assert std(\"she's been like\") == \"she has been like\"\n    assert std(\"10km\") == \"10 km\"\n    assert std(\"10mm\") == \"10 mm\"\n    assert std(\"RC232\") == \"rc 232\"\n    assert (\n        std(\"Mr. Park visited Assoc. Prof. Kim Jr.\")",
+        "detail": "youtube-rag.whisper.tests.test_normalizer",
+        "documentation": {}
+    },
+    {
+        "label": "test_dtw",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.test_timing",
+        "description": "youtube-rag.whisper.tests.test_timing",
+        "peekOfCode": "def test_dtw(N: int, M: int):\n    steps = np.concatenate([np.zeros(N - 1), np.ones(M - 1)])\n    np.random.shuffle(steps)\n    x = np.random.random((N, M)).astype(np.float32)\n    i, j, k = 0, 0, 0\n    trace = []\n    while True:\n        x[i, j] -= 1\n        trace.append((i, j))\n        if k == len(steps):",
+        "detail": "youtube-rag.whisper.tests.test_timing",
+        "documentation": {}
+    },
+    {
+        "label": "test_dtw_cuda_equivalence",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.test_timing",
+        "description": "youtube-rag.whisper.tests.test_timing",
+        "peekOfCode": "def test_dtw_cuda_equivalence(N: int, M: int):\n    x_numpy = np.random.randn(N, M).astype(np.float32)\n    x_cuda = torch.from_numpy(x_numpy).cuda()\n    trace_cpu = dtw_cpu(x_numpy)\n    trace_cuda = dtw_cuda(x_cuda)\n    assert np.allclose(trace_cpu, trace_cuda)\n@pytest.mark.parametrize(\"shape\", shapes)\ndef test_median_filter(shape):\n    x = torch.randn(*shape)\n    for filter_width in [3, 5, 7, 13]:",
+        "detail": "youtube-rag.whisper.tests.test_timing",
+        "documentation": {}
+    },
+    {
+        "label": "test_median_filter",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.test_timing",
+        "description": "youtube-rag.whisper.tests.test_timing",
+        "peekOfCode": "def test_median_filter(shape):\n    x = torch.randn(*shape)\n    for filter_width in [3, 5, 7, 13]:\n        filtered = median_filter(x, filter_width)\n        # using np.pad to reflect-pad, because Scipy's behavior is different near the edges.\n        pad_width = filter_width // 2\n        padded_x = np.pad(\n            x, [(0, 0)] * (x.ndim - 1) + [(pad_width, pad_width)], mode=\"reflect\"\n        )\n        scipy_filtered = scipy.ndimage.median_filter(",
+        "detail": "youtube-rag.whisper.tests.test_timing",
+        "documentation": {}
+    },
+    {
+        "label": "test_median_filter_equivalence",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.test_timing",
+        "description": "youtube-rag.whisper.tests.test_timing",
+        "peekOfCode": "def test_median_filter_equivalence(shape):\n    x = torch.randn(*shape)\n    for filter_width in [3, 5, 7, 13]:\n        filtered_cpu = median_filter(x, filter_width)\n        filtered_gpu = median_filter(x.cuda(), filter_width).cpu()\n        assert np.allclose(filtered_cpu, filtered_gpu)",
+        "detail": "youtube-rag.whisper.tests.test_timing",
+        "documentation": {}
+    },
+    {
+        "label": "sizes",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.tests.test_timing",
+        "description": "youtube-rag.whisper.tests.test_timing",
+        "peekOfCode": "sizes = [\n    (10, 20),\n    (32, 16),\n    (123, 1500),\n    (234, 189),\n]\nshapes = [\n    (10,),\n    (1, 15),\n    (4, 5, 345),",
+        "detail": "youtube-rag.whisper.tests.test_timing",
+        "documentation": {}
+    },
+    {
+        "label": "shapes",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.tests.test_timing",
+        "description": "youtube-rag.whisper.tests.test_timing",
+        "peekOfCode": "shapes = [\n    (10,),\n    (1, 15),\n    (4, 5, 345),\n    (6, 12, 240, 512),\n]\n@pytest.mark.parametrize(\"N, M\", sizes)\ndef test_dtw(N: int, M: int):\n    steps = np.concatenate([np.zeros(N - 1), np.ones(M - 1)])\n    np.random.shuffle(steps)",
+        "detail": "youtube-rag.whisper.tests.test_timing",
+        "documentation": {}
+    },
+    {
+        "label": "test_tokenizer",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.test_tokenizer",
+        "description": "youtube-rag.whisper.tests.test_tokenizer",
+        "peekOfCode": "def test_tokenizer(multilingual):\n    tokenizer = get_tokenizer(multilingual=False)\n    assert tokenizer.sot in tokenizer.sot_sequence\n    assert len(tokenizer.all_language_codes) == len(tokenizer.all_language_tokens)\n    assert all(c < tokenizer.timestamp_begin for c in tokenizer.all_language_tokens)\ndef test_multilingual_tokenizer():\n    gpt2_tokenizer = get_tokenizer(multilingual=False)\n    multilingual_tokenizer = get_tokenizer(multilingual=True)\n    text = \"다람쥐 헌 쳇바퀴에 타고파\"\n    gpt2_tokens = gpt2_tokenizer.encode(text)",
+        "detail": "youtube-rag.whisper.tests.test_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "test_multilingual_tokenizer",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.test_tokenizer",
+        "description": "youtube-rag.whisper.tests.test_tokenizer",
+        "peekOfCode": "def test_multilingual_tokenizer():\n    gpt2_tokenizer = get_tokenizer(multilingual=False)\n    multilingual_tokenizer = get_tokenizer(multilingual=True)\n    text = \"다람쥐 헌 쳇바퀴에 타고파\"\n    gpt2_tokens = gpt2_tokenizer.encode(text)\n    multilingual_tokens = multilingual_tokenizer.encode(text)\n    assert gpt2_tokenizer.decode(gpt2_tokens) == text\n    assert multilingual_tokenizer.decode(multilingual_tokens) == text\n    assert len(gpt2_tokens) > len(multilingual_tokens)\ndef test_split_on_unicode():",
+        "detail": "youtube-rag.whisper.tests.test_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "test_split_on_unicode",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.test_tokenizer",
+        "description": "youtube-rag.whisper.tests.test_tokenizer",
+        "peekOfCode": "def test_split_on_unicode():\n    multilingual_tokenizer = get_tokenizer(multilingual=True)\n    tokens = [8404, 871, 287, 6, 246, 526, 3210, 20378]\n    words, word_tokens = multilingual_tokenizer.split_tokens_on_unicode(tokens)\n    assert words == [\" elle\", \" est\", \" l\", \"'\", \"\\ufffd\", \"é\", \"rit\", \"oire\"]\n    assert word_tokens == [[8404], [871], [287], [6], [246], [526], [3210], [20378]]",
+        "detail": "youtube-rag.whisper.tests.test_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "test_transcribe",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.tests.test_transcribe",
+        "description": "youtube-rag.whisper.tests.test_transcribe",
+        "peekOfCode": "def test_transcribe(model_name: str):\n    device = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n    model = whisper.load_model(model_name).to(device)\n    audio_path = os.path.join(os.path.dirname(__file__), \"jfk.flac\")\n    language = \"en\" if model_name.endswith(\".en\") else None\n    result = model.transcribe(\n        audio_path, language=language, temperature=0.0, word_timestamps=True\n    )\n    assert result[\"language\"] == \"en\"\n    assert result[\"text\"] == \"\".join([s[\"text\"] for s in result[\"segments\"]])",
+        "detail": "youtube-rag.whisper.tests.test_transcribe",
+        "documentation": {}
+    },
+    {
+        "label": "BasicTextNormalizer",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.normalizers.basic",
+        "description": "youtube-rag.whisper.whisper.normalizers.basic",
+        "peekOfCode": "class BasicTextNormalizer:\n    def __init__(self, remove_diacritics: bool = False, split_letters: bool = False):\n        self.clean = (\n            remove_symbols_and_diacritics if remove_diacritics else remove_symbols\n        )\n        self.split_letters = split_letters\n    def __call__(self, s: str):\n        s = s.lower()\n        s = re.sub(r\"[<\\[][^>\\]]*[>\\]]\", \"\", s)  # remove words between brackets\n        s = re.sub(r\"\\(([^)]+?)\\)\", \"\", s)  # remove words between parenthesis",
+        "detail": "youtube-rag.whisper.whisper.normalizers.basic",
+        "documentation": {}
+    },
+    {
+        "label": "remove_symbols_and_diacritics",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.normalizers.basic",
+        "description": "youtube-rag.whisper.whisper.normalizers.basic",
+        "peekOfCode": "def remove_symbols_and_diacritics(s: str, keep=\"\"):\n    \"\"\"\n    Replace any other markers, symbols, and punctuations with a space,\n    and drop any diacritics (category 'Mn' and some manual mappings)\n    \"\"\"\n    return \"\".join(\n        c\n        if c in keep\n        else ADDITIONAL_DIACRITICS[c]\n        if c in ADDITIONAL_DIACRITICS",
+        "detail": "youtube-rag.whisper.whisper.normalizers.basic",
+        "documentation": {}
+    },
+    {
+        "label": "remove_symbols",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.normalizers.basic",
+        "description": "youtube-rag.whisper.whisper.normalizers.basic",
+        "peekOfCode": "def remove_symbols(s: str):\n    \"\"\"\n    Replace any other markers, symbols, punctuations with a space, keeping diacritics\n    \"\"\"\n    return \"\".join(\n        \" \" if unicodedata.category(c)[0] in \"MSP\" else c\n        for c in unicodedata.normalize(\"NFKC\", s)\n    )\nclass BasicTextNormalizer:\n    def __init__(self, remove_diacritics: bool = False, split_letters: bool = False):",
+        "detail": "youtube-rag.whisper.whisper.normalizers.basic",
+        "documentation": {}
+    },
+    {
+        "label": "ADDITIONAL_DIACRITICS",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.normalizers.basic",
+        "description": "youtube-rag.whisper.whisper.normalizers.basic",
+        "peekOfCode": "ADDITIONAL_DIACRITICS = {\n    \"œ\": \"oe\",\n    \"Œ\": \"OE\",\n    \"ø\": \"o\",\n    \"Ø\": \"O\",\n    \"æ\": \"ae\",\n    \"Æ\": \"AE\",\n    \"ß\": \"ss\",\n    \"ẞ\": \"SS\",\n    \"đ\": \"d\",",
+        "detail": "youtube-rag.whisper.whisper.normalizers.basic",
+        "documentation": {}
+    },
+    {
+        "label": "EnglishNumberNormalizer",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.normalizers.english",
+        "description": "youtube-rag.whisper.whisper.normalizers.english",
+        "peekOfCode": "class EnglishNumberNormalizer:\n    \"\"\"\n    Convert any spelled-out numbers into arabic numbers, while handling:\n    - remove any commas\n    - keep the suffixes such as: `1960s`, `274th`, `32nd`, etc.\n    - spell out currency symbols after the number. e.g. `$20 million` -> `20000000 dollars`\n    - spell out `one` and `ones`\n    - interpret successive single-digit numbers as nominal: `one oh one` -> `101`\n    \"\"\"\n    def __init__(self):",
+        "detail": "youtube-rag.whisper.whisper.normalizers.english",
+        "documentation": {}
+    },
+    {
+        "label": "EnglishSpellingNormalizer",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.normalizers.english",
+        "description": "youtube-rag.whisper.whisper.normalizers.english",
+        "peekOfCode": "class EnglishSpellingNormalizer:\n    \"\"\"\n    Applies British-American spelling mappings as listed in [1].\n    [1] https://www.tysto.com/uk-us-spelling-list.html\n    \"\"\"\n    def __init__(self):\n        mapping_path = os.path.join(os.path.dirname(__file__), \"english.json\")\n        self.mapping = json.load(open(mapping_path))\n    def __call__(self, s: str):\n        return \" \".join(self.mapping.get(word, word) for word in s.split())",
+        "detail": "youtube-rag.whisper.whisper.normalizers.english",
+        "documentation": {}
+    },
+    {
+        "label": "EnglishTextNormalizer",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.normalizers.english",
+        "description": "youtube-rag.whisper.whisper.normalizers.english",
+        "peekOfCode": "class EnglishTextNormalizer:\n    def __init__(self):\n        self.ignore_patterns = r\"\\b(hmm|mm|mhm|mmm|uh|um)\\b\"\n        self.replacers = {\n            # common contractions\n            r\"\\bwon't\\b\": \"will not\",\n            r\"\\bcan't\\b\": \"can not\",\n            r\"\\blet's\\b\": \"let us\",\n            r\"\\bain't\\b\": \"aint\",\n            r\"\\by'all\\b\": \"you all\",",
+        "detail": "youtube-rag.whisper.whisper.normalizers.english",
+        "documentation": {}
+    },
+    {
+        "label": "load_audio",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "def load_audio(file: str, sr: int = SAMPLE_RATE):\n    \"\"\"\n    Open an audio file and read as mono waveform, resampling as necessary\n    Parameters\n    ----------\n    file: str\n        The audio file to open\n    sr: int\n        The sample rate to resample the audio if necessary\n    Returns",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "pad_or_trim",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "def pad_or_trim(array, length: int = N_SAMPLES, *, axis: int = -1):\n    \"\"\"\n    Pad or trim the audio array to N_SAMPLES, as expected by the encoder.\n    \"\"\"\n    if torch.is_tensor(array):\n        if array.shape[axis] > length:\n            array = array.index_select(\n                dim=axis, index=torch.arange(length, device=array.device)\n            )\n        if array.shape[axis] < length:",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "mel_filters",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "def mel_filters(device, n_mels: int) -> torch.Tensor:\n    \"\"\"\n    load the mel filterbank matrix for projecting STFT into a Mel spectrogram.\n    Allows decoupling librosa dependency; saved using:\n        np.savez_compressed(\n            \"mel_filters.npz\",\n            mel_80=librosa.filters.mel(sr=16000, n_fft=400, n_mels=80),\n            mel_128=librosa.filters.mel(sr=16000, n_fft=400, n_mels=128),\n        )\n    \"\"\"",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "log_mel_spectrogram",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "def log_mel_spectrogram(\n    audio: Union[str, np.ndarray, torch.Tensor],\n    n_mels: int = 80,\n    padding: int = 0,\n    device: Optional[Union[str, torch.device]] = None,\n):\n    \"\"\"\n    Compute the log-Mel spectrogram of\n    Parameters\n    ----------",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "SAMPLE_RATE",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "SAMPLE_RATE = 16000\nN_FFT = 400\nHOP_LENGTH = 160\nCHUNK_LENGTH = 30\nN_SAMPLES = CHUNK_LENGTH * SAMPLE_RATE  # 480000 samples in a 30-second chunk\nN_FRAMES = exact_div(N_SAMPLES, HOP_LENGTH)  # 3000 frames in a mel spectrogram input\nN_SAMPLES_PER_TOKEN = HOP_LENGTH * 2  # the initial convolutions has stride 2\nFRAMES_PER_SECOND = exact_div(SAMPLE_RATE, HOP_LENGTH)  # 10ms per audio frame\nTOKENS_PER_SECOND = exact_div(SAMPLE_RATE, N_SAMPLES_PER_TOKEN)  # 20ms per audio token\ndef load_audio(file: str, sr: int = SAMPLE_RATE):",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "N_FFT",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "N_FFT = 400\nHOP_LENGTH = 160\nCHUNK_LENGTH = 30\nN_SAMPLES = CHUNK_LENGTH * SAMPLE_RATE  # 480000 samples in a 30-second chunk\nN_FRAMES = exact_div(N_SAMPLES, HOP_LENGTH)  # 3000 frames in a mel spectrogram input\nN_SAMPLES_PER_TOKEN = HOP_LENGTH * 2  # the initial convolutions has stride 2\nFRAMES_PER_SECOND = exact_div(SAMPLE_RATE, HOP_LENGTH)  # 10ms per audio frame\nTOKENS_PER_SECOND = exact_div(SAMPLE_RATE, N_SAMPLES_PER_TOKEN)  # 20ms per audio token\ndef load_audio(file: str, sr: int = SAMPLE_RATE):\n    \"\"\"",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "HOP_LENGTH",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "HOP_LENGTH = 160\nCHUNK_LENGTH = 30\nN_SAMPLES = CHUNK_LENGTH * SAMPLE_RATE  # 480000 samples in a 30-second chunk\nN_FRAMES = exact_div(N_SAMPLES, HOP_LENGTH)  # 3000 frames in a mel spectrogram input\nN_SAMPLES_PER_TOKEN = HOP_LENGTH * 2  # the initial convolutions has stride 2\nFRAMES_PER_SECOND = exact_div(SAMPLE_RATE, HOP_LENGTH)  # 10ms per audio frame\nTOKENS_PER_SECOND = exact_div(SAMPLE_RATE, N_SAMPLES_PER_TOKEN)  # 20ms per audio token\ndef load_audio(file: str, sr: int = SAMPLE_RATE):\n    \"\"\"\n    Open an audio file and read as mono waveform, resampling as necessary",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "CHUNK_LENGTH",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "CHUNK_LENGTH = 30\nN_SAMPLES = CHUNK_LENGTH * SAMPLE_RATE  # 480000 samples in a 30-second chunk\nN_FRAMES = exact_div(N_SAMPLES, HOP_LENGTH)  # 3000 frames in a mel spectrogram input\nN_SAMPLES_PER_TOKEN = HOP_LENGTH * 2  # the initial convolutions has stride 2\nFRAMES_PER_SECOND = exact_div(SAMPLE_RATE, HOP_LENGTH)  # 10ms per audio frame\nTOKENS_PER_SECOND = exact_div(SAMPLE_RATE, N_SAMPLES_PER_TOKEN)  # 20ms per audio token\ndef load_audio(file: str, sr: int = SAMPLE_RATE):\n    \"\"\"\n    Open an audio file and read as mono waveform, resampling as necessary\n    Parameters",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "N_SAMPLES",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "N_SAMPLES = CHUNK_LENGTH * SAMPLE_RATE  # 480000 samples in a 30-second chunk\nN_FRAMES = exact_div(N_SAMPLES, HOP_LENGTH)  # 3000 frames in a mel spectrogram input\nN_SAMPLES_PER_TOKEN = HOP_LENGTH * 2  # the initial convolutions has stride 2\nFRAMES_PER_SECOND = exact_div(SAMPLE_RATE, HOP_LENGTH)  # 10ms per audio frame\nTOKENS_PER_SECOND = exact_div(SAMPLE_RATE, N_SAMPLES_PER_TOKEN)  # 20ms per audio token\ndef load_audio(file: str, sr: int = SAMPLE_RATE):\n    \"\"\"\n    Open an audio file and read as mono waveform, resampling as necessary\n    Parameters\n    ----------",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "N_FRAMES",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "N_FRAMES = exact_div(N_SAMPLES, HOP_LENGTH)  # 3000 frames in a mel spectrogram input\nN_SAMPLES_PER_TOKEN = HOP_LENGTH * 2  # the initial convolutions has stride 2\nFRAMES_PER_SECOND = exact_div(SAMPLE_RATE, HOP_LENGTH)  # 10ms per audio frame\nTOKENS_PER_SECOND = exact_div(SAMPLE_RATE, N_SAMPLES_PER_TOKEN)  # 20ms per audio token\ndef load_audio(file: str, sr: int = SAMPLE_RATE):\n    \"\"\"\n    Open an audio file and read as mono waveform, resampling as necessary\n    Parameters\n    ----------\n    file: str",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "N_SAMPLES_PER_TOKEN",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "N_SAMPLES_PER_TOKEN = HOP_LENGTH * 2  # the initial convolutions has stride 2\nFRAMES_PER_SECOND = exact_div(SAMPLE_RATE, HOP_LENGTH)  # 10ms per audio frame\nTOKENS_PER_SECOND = exact_div(SAMPLE_RATE, N_SAMPLES_PER_TOKEN)  # 20ms per audio token\ndef load_audio(file: str, sr: int = SAMPLE_RATE):\n    \"\"\"\n    Open an audio file and read as mono waveform, resampling as necessary\n    Parameters\n    ----------\n    file: str\n        The audio file to open",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "FRAMES_PER_SECOND",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "FRAMES_PER_SECOND = exact_div(SAMPLE_RATE, HOP_LENGTH)  # 10ms per audio frame\nTOKENS_PER_SECOND = exact_div(SAMPLE_RATE, N_SAMPLES_PER_TOKEN)  # 20ms per audio token\ndef load_audio(file: str, sr: int = SAMPLE_RATE):\n    \"\"\"\n    Open an audio file and read as mono waveform, resampling as necessary\n    Parameters\n    ----------\n    file: str\n        The audio file to open\n    sr: int",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "TOKENS_PER_SECOND",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.audio",
+        "description": "youtube-rag.whisper.whisper.audio",
+        "peekOfCode": "TOKENS_PER_SECOND = exact_div(SAMPLE_RATE, N_SAMPLES_PER_TOKEN)  # 20ms per audio token\ndef load_audio(file: str, sr: int = SAMPLE_RATE):\n    \"\"\"\n    Open an audio file and read as mono waveform, resampling as necessary\n    Parameters\n    ----------\n    file: str\n        The audio file to open\n    sr: int\n        The sample rate to resample the audio if necessary",
+        "detail": "youtube-rag.whisper.whisper.audio",
+        "documentation": {}
+    },
+    {
+        "label": "DecodingOptions",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class DecodingOptions:\n    # whether to perform X->X \"transcribe\" or X->English \"translate\"\n    task: str = \"transcribe\"\n    # language that the audio is in; uses detected language if None\n    language: Optional[str] = None\n    # sampling-related options\n    temperature: float = 0.0\n    sample_len: Optional[int] = None  # maximum number of tokens to sample\n    best_of: Optional[int] = None  # number of independent sample trajectories, if t > 0\n    beam_size: Optional[int] = None  # number of beams in beam search, if t == 0",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "DecodingResult",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class DecodingResult:\n    audio_features: Tensor\n    language: str\n    language_probs: Optional[Dict[str, float]] = None\n    tokens: List[int] = field(default_factory=list)\n    text: str = \"\"\n    avg_logprob: float = np.nan\n    no_speech_prob: float = np.nan\n    temperature: float = np.nan\n    compression_ratio: float = np.nan",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "Inference",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class Inference:\n    def logits(self, tokens: Tensor, audio_features: Tensor) -> Tensor:\n        \"\"\"Perform a forward pass on the decoder and return per-token logits\"\"\"\n        raise NotImplementedError\n    def rearrange_kv_cache(self, source_indices) -> None:\n        \"\"\"Update the key-value cache according to the updated beams\"\"\"\n        raise NotImplementedError\n    def cleanup_caching(self) -> None:\n        \"\"\"Clean up any resources or hooks after decoding is finished\"\"\"\n        pass",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "PyTorchInference",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class PyTorchInference(Inference):\n    def __init__(self, model: \"Whisper\", initial_token_length: int):\n        self.model: \"Whisper\" = model\n        self.initial_token_length = initial_token_length\n        self.kv_cache = {}\n        self.hooks = []\n        key_modules = [block.attn.key for block in self.model.decoder.blocks]\n        value_modules = [block.attn.value for block in self.model.decoder.blocks]\n        self.kv_modules = key_modules + value_modules\n    def logits(self, tokens: Tensor, audio_features: Tensor) -> Tensor:",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "SequenceRanker",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class SequenceRanker:\n    def rank(\n        self, tokens: List[List[Tensor]], sum_logprobs: List[List[float]]\n    ) -> List[int]:\n        \"\"\"\n        Given a list of groups of samples and their cumulative log probabilities,\n        return the indices of the samples in each group to select as the final result\n        \"\"\"\n        raise NotImplementedError\nclass MaximumLikelihoodRanker(SequenceRanker):",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "MaximumLikelihoodRanker",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class MaximumLikelihoodRanker(SequenceRanker):\n    \"\"\"\n    Select the sample with the highest log probabilities, penalized using either\n    a simple length normalization or Google NMT paper's length penalty\n    \"\"\"\n    def __init__(self, length_penalty: Optional[float]):\n        self.length_penalty = length_penalty\n    def rank(self, tokens: List[List[Tensor]], sum_logprobs: List[List[float]]):\n        def scores(logprobs, lengths):\n            result = []",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "TokenDecoder",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class TokenDecoder:\n    def reset(self):\n        \"\"\"Initialize any stateful variables for decoding a new sequence\"\"\"\n    def update(\n        self, tokens: Tensor, logits: Tensor, sum_logprobs: Tensor\n    ) -> Tuple[Tensor, bool]:\n        \"\"\"Specify how to select the next token, based on the current trace and logits\n        Parameters\n        ----------\n        tokens : Tensor, shape = (n_batch, current_sequence_length)",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "GreedyDecoder",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class GreedyDecoder(TokenDecoder):\n    def __init__(self, temperature: float, eot: int):\n        self.temperature = temperature\n        self.eot = eot\n    def update(\n        self, tokens: Tensor, logits: Tensor, sum_logprobs: Tensor\n    ) -> Tuple[Tensor, bool]:\n        if self.temperature == 0:\n            next_tokens = logits.argmax(dim=-1)\n        else:",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "BeamSearchDecoder",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class BeamSearchDecoder(TokenDecoder):\n    def __init__(\n        self,\n        beam_size: int,\n        eot: int,\n        inference: Inference,\n        patience: Optional[float] = None,\n    ):\n        self.beam_size = beam_size\n        self.eot = eot",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "LogitFilter",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class LogitFilter:\n    def apply(self, logits: Tensor, tokens: Tensor) -> None:\n        \"\"\"Apply any filtering or masking to logits in-place\n        Parameters\n        ----------\n        logits : Tensor, shape = (n_batch, vocab_size)\n            per-token logits of the probability distribution at the current step\n        tokens : Tensor, shape = (n_batch, current_sequence_length)\n            all tokens in the context so far, including the prefix and sot_sequence tokens\n        \"\"\"",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "SuppressBlank",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class SuppressBlank(LogitFilter):\n    def __init__(self, tokenizer: Tokenizer, sample_begin: int):\n        self.tokenizer = tokenizer\n        self.sample_begin = sample_begin\n    def apply(self, logits: Tensor, tokens: Tensor):\n        if tokens.shape[1] == self.sample_begin:\n            logits[:, self.tokenizer.encode(\" \") + [self.tokenizer.eot]] = -np.inf\nclass SuppressTokens(LogitFilter):\n    def __init__(self, suppress_tokens: Sequence[int]):\n        self.suppress_tokens = list(suppress_tokens)",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "SuppressTokens",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class SuppressTokens(LogitFilter):\n    def __init__(self, suppress_tokens: Sequence[int]):\n        self.suppress_tokens = list(suppress_tokens)\n    def apply(self, logits: Tensor, tokens: Tensor):\n        logits[:, self.suppress_tokens] = -np.inf\nclass ApplyTimestampRules(LogitFilter):\n    def __init__(\n        self,\n        tokenizer: Tokenizer,\n        sample_begin: int,",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "ApplyTimestampRules",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class ApplyTimestampRules(LogitFilter):\n    def __init__(\n        self,\n        tokenizer: Tokenizer,\n        sample_begin: int,\n        max_initial_timestamp_index: Optional[int],\n    ):\n        self.tokenizer = tokenizer\n        self.sample_begin = sample_begin\n        self.max_initial_timestamp_index = max_initial_timestamp_index",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "DecodingTask",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "class DecodingTask:\n    inference: Inference\n    sequence_ranker: SequenceRanker\n    decoder: TokenDecoder\n    logit_filters: List[LogitFilter]\n    def __init__(self, model: \"Whisper\", options: DecodingOptions):\n        self.model = model\n        language = options.language or \"en\"\n        tokenizer = get_tokenizer(\n            model.is_multilingual,",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "detect_language",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "def detect_language(\n    model: \"Whisper\", mel: Tensor, tokenizer: Tokenizer = None\n) -> Tuple[Tensor, List[dict]]:\n    \"\"\"\n    Detect the spoken language in the audio, and return them as list of strings, along with the ids\n    of the most probable language tokens and the probability distribution over all language tokens.\n    This is performed outside the main decode loop in order to not interfere with kv-caching.\n    Returns\n    -------\n    language_tokens : Tensor, shape = (n_audio,)",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "decode",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.decoding",
+        "description": "youtube-rag.whisper.whisper.decoding",
+        "peekOfCode": "def decode(\n    model: \"Whisper\",\n    mel: Tensor,\n    options: DecodingOptions = DecodingOptions(),\n    **kwargs,\n) -> Union[DecodingResult, List[DecodingResult]]:\n    \"\"\"\n    Performs decoding of 30-second audio segment(s), provided as Mel spectrogram(s).\n    Parameters\n    ----------",
+        "detail": "youtube-rag.whisper.whisper.decoding",
+        "documentation": {}
+    },
+    {
+        "label": "ModelDimensions",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.model",
+        "description": "youtube-rag.whisper.whisper.model",
+        "peekOfCode": "class ModelDimensions:\n    n_mels: int\n    n_audio_ctx: int\n    n_audio_state: int\n    n_audio_head: int\n    n_audio_layer: int\n    n_vocab: int\n    n_text_ctx: int\n    n_text_state: int\n    n_text_head: int",
+        "detail": "youtube-rag.whisper.whisper.model",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.model",
+        "description": "youtube-rag.whisper.whisper.model",
+        "peekOfCode": "class LayerNorm(nn.LayerNorm):\n    def forward(self, x: Tensor) -> Tensor:\n        return super().forward(x.float()).type(x.dtype)\nclass Linear(nn.Linear):\n    def forward(self, x: Tensor) -> Tensor:\n        return F.linear(\n            x,\n            self.weight.to(x.dtype),\n            None if self.bias is None else self.bias.to(x.dtype),\n        )",
+        "detail": "youtube-rag.whisper.whisper.model",
+        "documentation": {}
+    },
+    {
+        "label": "Linear",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.model",
+        "description": "youtube-rag.whisper.whisper.model",
+        "peekOfCode": "class Linear(nn.Linear):\n    def forward(self, x: Tensor) -> Tensor:\n        return F.linear(\n            x,\n            self.weight.to(x.dtype),\n            None if self.bias is None else self.bias.to(x.dtype),\n        )\nclass Conv1d(nn.Conv1d):\n    def _conv_forward(\n        self, x: Tensor, weight: Tensor, bias: Optional[Tensor]",
+        "detail": "youtube-rag.whisper.whisper.model",
+        "documentation": {}
+    },
+    {
+        "label": "Conv1d",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.model",
+        "description": "youtube-rag.whisper.whisper.model",
+        "peekOfCode": "class Conv1d(nn.Conv1d):\n    def _conv_forward(\n        self, x: Tensor, weight: Tensor, bias: Optional[Tensor]\n    ) -> Tensor:\n        return super()._conv_forward(\n            x, weight.to(x.dtype), None if bias is None else bias.to(x.dtype)\n        )\ndef sinusoids(length, channels, max_timescale=10000):\n    \"\"\"Returns sinusoids for positional embedding\"\"\"\n    assert channels % 2 == 0",
+        "detail": "youtube-rag.whisper.whisper.model",
+        "documentation": {}
+    },
+    {
+        "label": "MultiHeadAttention",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.model",
+        "description": "youtube-rag.whisper.whisper.model",
+        "peekOfCode": "class MultiHeadAttention(nn.Module):\n    def __init__(self, n_state: int, n_head: int):\n        super().__init__()\n        self.n_head = n_head\n        self.query = Linear(n_state, n_state)\n        self.key = Linear(n_state, n_state, bias=False)\n        self.value = Linear(n_state, n_state)\n        self.out = Linear(n_state, n_state)\n    def forward(\n        self,",
+        "detail": "youtube-rag.whisper.whisper.model",
+        "documentation": {}
+    },
+    {
+        "label": "ResidualAttentionBlock",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.model",
+        "description": "youtube-rag.whisper.whisper.model",
+        "peekOfCode": "class ResidualAttentionBlock(nn.Module):\n    def __init__(self, n_state: int, n_head: int, cross_attention: bool = False):\n        super().__init__()\n        self.attn = MultiHeadAttention(n_state, n_head)\n        self.attn_ln = LayerNorm(n_state)\n        self.cross_attn = (\n            MultiHeadAttention(n_state, n_head) if cross_attention else None\n        )\n        self.cross_attn_ln = LayerNorm(n_state) if cross_attention else None\n        n_mlp = n_state * 4",
+        "detail": "youtube-rag.whisper.whisper.model",
+        "documentation": {}
+    },
+    {
+        "label": "AudioEncoder",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.model",
+        "description": "youtube-rag.whisper.whisper.model",
+        "peekOfCode": "class AudioEncoder(nn.Module):\n    def __init__(\n        self, n_mels: int, n_ctx: int, n_state: int, n_head: int, n_layer: int\n    ):\n        super().__init__()\n        self.conv1 = Conv1d(n_mels, n_state, kernel_size=3, padding=1)\n        self.conv2 = Conv1d(n_state, n_state, kernel_size=3, stride=2, padding=1)\n        self.register_buffer(\"positional_embedding\", sinusoids(n_ctx, n_state))\n        self.blocks: Iterable[ResidualAttentionBlock] = nn.ModuleList(\n            [ResidualAttentionBlock(n_state, n_head) for _ in range(n_layer)]",
+        "detail": "youtube-rag.whisper.whisper.model",
+        "documentation": {}
+    },
+    {
+        "label": "TextDecoder",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.model",
+        "description": "youtube-rag.whisper.whisper.model",
+        "peekOfCode": "class TextDecoder(nn.Module):\n    def __init__(\n        self, n_vocab: int, n_ctx: int, n_state: int, n_head: int, n_layer: int\n    ):\n        super().__init__()\n        self.token_embedding = nn.Embedding(n_vocab, n_state)\n        self.positional_embedding = nn.Parameter(torch.empty(n_ctx, n_state))\n        self.blocks: Iterable[ResidualAttentionBlock] = nn.ModuleList(\n            [\n                ResidualAttentionBlock(n_state, n_head, cross_attention=True)",
+        "detail": "youtube-rag.whisper.whisper.model",
+        "documentation": {}
+    },
+    {
+        "label": "Whisper",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.model",
+        "description": "youtube-rag.whisper.whisper.model",
+        "peekOfCode": "class Whisper(nn.Module):\n    def __init__(self, dims: ModelDimensions):\n        super().__init__()\n        self.dims = dims\n        self.encoder = AudioEncoder(\n            self.dims.n_mels,\n            self.dims.n_audio_ctx,\n            self.dims.n_audio_state,\n            self.dims.n_audio_head,\n            self.dims.n_audio_layer,",
+        "detail": "youtube-rag.whisper.whisper.model",
+        "documentation": {}
+    },
+    {
+        "label": "sinusoids",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.model",
+        "description": "youtube-rag.whisper.whisper.model",
+        "peekOfCode": "def sinusoids(length, channels, max_timescale=10000):\n    \"\"\"Returns sinusoids for positional embedding\"\"\"\n    assert channels % 2 == 0\n    log_timescale_increment = np.log(max_timescale) / (channels // 2 - 1)\n    inv_timescales = torch.exp(-log_timescale_increment * torch.arange(channels // 2))\n    scaled_time = torch.arange(length)[:, np.newaxis] * inv_timescales[np.newaxis, :]\n    return torch.cat([torch.sin(scaled_time), torch.cos(scaled_time)], dim=1)\nclass MultiHeadAttention(nn.Module):\n    def __init__(self, n_state: int, n_head: int):\n        super().__init__()",
+        "detail": "youtube-rag.whisper.whisper.model",
+        "documentation": {}
+    },
+    {
+        "label": "WordTiming",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.timing",
+        "description": "youtube-rag.whisper.whisper.timing",
+        "peekOfCode": "class WordTiming:\n    word: str\n    tokens: List[int]\n    start: float\n    end: float\n    probability: float\ndef find_alignment(\n    model: \"Whisper\",\n    tokenizer: Tokenizer,\n    text_tokens: List[int],",
+        "detail": "youtube-rag.whisper.whisper.timing",
+        "documentation": {}
+    },
+    {
+        "label": "median_filter",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.timing",
+        "description": "youtube-rag.whisper.whisper.timing",
+        "peekOfCode": "def median_filter(x: torch.Tensor, filter_width: int):\n    \"\"\"Apply a median filter of width `filter_width` along the last dimension of `x`\"\"\"\n    pad_width = filter_width // 2\n    if x.shape[-1] <= pad_width:\n        # F.pad requires the padding width to be smaller than the input dimension\n        return x\n    if (ndim := x.ndim) <= 2:\n        # `F.pad` does not support 1D or 2D inputs for reflect padding but supports 3D and 4D\n        x = x[None, None, :]\n    assert (",
+        "detail": "youtube-rag.whisper.whisper.timing",
+        "documentation": {}
+    },
+    {
+        "label": "backtrace",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.timing",
+        "description": "youtube-rag.whisper.whisper.timing",
+        "peekOfCode": "def backtrace(trace: np.ndarray):\n    i = trace.shape[0] - 1\n    j = trace.shape[1] - 1\n    trace[0, :] = 2\n    trace[:, 0] = 1\n    result = []\n    while i > 0 or j > 0:\n        result.append((i - 1, j - 1))\n        if trace[i, j] == 0:\n            i -= 1",
+        "detail": "youtube-rag.whisper.whisper.timing",
+        "documentation": {}
+    },
+    {
+        "label": "dtw_cpu",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.timing",
+        "description": "youtube-rag.whisper.whisper.timing",
+        "peekOfCode": "def dtw_cpu(x: np.ndarray):\n    N, M = x.shape\n    cost = np.ones((N + 1, M + 1), dtype=np.float32) * np.inf\n    trace = -np.ones((N + 1, M + 1), dtype=np.float32)\n    cost[0, 0] = 0\n    for j in range(1, M + 1):\n        for i in range(1, N + 1):\n            c0 = cost[i - 1, j - 1]\n            c1 = cost[i - 1, j]\n            c2 = cost[i, j - 1]",
+        "detail": "youtube-rag.whisper.whisper.timing",
+        "documentation": {}
+    },
+    {
+        "label": "dtw_cuda",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.timing",
+        "description": "youtube-rag.whisper.whisper.timing",
+        "peekOfCode": "def dtw_cuda(x, BLOCK_SIZE=1024):\n    from .triton_ops import dtw_kernel\n    M, N = x.shape\n    assert M < BLOCK_SIZE, f\"M should be smaller than {BLOCK_SIZE=}\"\n    x_skew = (\n        F.pad(x, (0, M + 1), value=np.inf).flatten()[: M * (N + M)].reshape(M, N + M)\n    )\n    x_skew = x_skew.T.contiguous()\n    cost = torch.ones(N + M + 2, M + 2) * np.inf\n    cost[0, 0] = 0",
+        "detail": "youtube-rag.whisper.whisper.timing",
+        "documentation": {}
+    },
+    {
+        "label": "dtw",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.timing",
+        "description": "youtube-rag.whisper.whisper.timing",
+        "peekOfCode": "def dtw(x: torch.Tensor) -> np.ndarray:\n    if x.is_cuda:\n        try:\n            return dtw_cuda(x)\n        except (RuntimeError, subprocess.CalledProcessError):\n            warnings.warn(\n                \"Failed to launch Triton kernels, likely due to missing CUDA toolkit; \"\n                \"falling back to a slower DTW implementation...\"\n            )\n    return dtw_cpu(x.double().cpu().numpy())",
+        "detail": "youtube-rag.whisper.whisper.timing",
+        "documentation": {}
+    },
+    {
+        "label": "find_alignment",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.timing",
+        "description": "youtube-rag.whisper.whisper.timing",
+        "peekOfCode": "def find_alignment(\n    model: \"Whisper\",\n    tokenizer: Tokenizer,\n    text_tokens: List[int],\n    mel: torch.Tensor,\n    num_frames: int,\n    *,\n    medfilt_width: int = 7,\n    qk_scale: float = 1.0,\n) -> List[WordTiming]:",
+        "detail": "youtube-rag.whisper.whisper.timing",
+        "documentation": {}
+    },
+    {
+        "label": "merge_punctuations",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.timing",
+        "description": "youtube-rag.whisper.whisper.timing",
+        "peekOfCode": "def merge_punctuations(alignment: List[WordTiming], prepended: str, appended: str):\n    # merge prepended punctuations\n    i = len(alignment) - 2\n    j = len(alignment) - 1\n    while i >= 0:\n        previous = alignment[i]\n        following = alignment[j]\n        if previous.word.startswith(\" \") and previous.word.strip() in prepended:\n            # prepend it to the following word\n            following.word = previous.word + following.word",
+        "detail": "youtube-rag.whisper.whisper.timing",
+        "documentation": {}
+    },
+    {
+        "label": "add_word_timestamps",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.timing",
+        "description": "youtube-rag.whisper.whisper.timing",
+        "peekOfCode": "def add_word_timestamps(\n    *,\n    segments: List[dict],\n    model: \"Whisper\",\n    tokenizer: Tokenizer,\n    mel: torch.Tensor,\n    num_frames: int,\n    prepend_punctuations: str = \"\\\"'“¿([{-\",\n    append_punctuations: str = \"\\\"'.。,，!！?？:：”)]}、\",\n    last_speech_timestamp: float,",
+        "detail": "youtube-rag.whisper.whisper.timing",
+        "documentation": {}
+    },
+    {
+        "label": "Tokenizer",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.tokenizer",
+        "description": "youtube-rag.whisper.whisper.tokenizer",
+        "peekOfCode": "class Tokenizer:\n    \"\"\"A thin wrapper around `tiktoken` providing quick access to special tokens\"\"\"\n    encoding: tiktoken.Encoding\n    num_languages: int\n    language: Optional[str] = None\n    task: Optional[str] = None\n    sot_sequence: Tuple[int] = ()\n    special_tokens: Dict[str, int] = field(default_factory=dict)\n    def __post_init__(self):\n        for special in self.encoding.special_tokens_set:",
+        "detail": "youtube-rag.whisper.whisper.tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "get_encoding",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.tokenizer",
+        "description": "youtube-rag.whisper.whisper.tokenizer",
+        "peekOfCode": "def get_encoding(name: str = \"gpt2\", num_languages: int = 99):\n    vocab_path = os.path.join(os.path.dirname(__file__), \"assets\", f\"{name}.tiktoken\")\n    ranks = {\n        base64.b64decode(token): int(rank)\n        for token, rank in (line.split() for line in open(vocab_path) if line)\n    }\n    n_vocab = len(ranks)\n    special_tokens = {}\n    specials = [\n        \"<|endoftext|>\",",
+        "detail": "youtube-rag.whisper.whisper.tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "get_tokenizer",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.tokenizer",
+        "description": "youtube-rag.whisper.whisper.tokenizer",
+        "peekOfCode": "def get_tokenizer(\n    multilingual: bool,\n    *,\n    num_languages: int = 99,\n    language: Optional[str] = None,\n    task: Optional[str] = None,  # Literal[\"transcribe\", \"translate\", None]\n) -> Tokenizer:\n    if language is not None:\n        language = language.lower()\n        if language not in LANGUAGES:",
+        "detail": "youtube-rag.whisper.whisper.tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGES",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.tokenizer",
+        "description": "youtube-rag.whisper.whisper.tokenizer",
+        "peekOfCode": "LANGUAGES = {\n    \"en\": \"english\",\n    \"zh\": \"chinese\",\n    \"de\": \"german\",\n    \"es\": \"spanish\",\n    \"ru\": \"russian\",\n    \"ko\": \"korean\",\n    \"fr\": \"french\",\n    \"ja\": \"japanese\",\n    \"pt\": \"portuguese\",",
+        "detail": "youtube-rag.whisper.whisper.tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "TO_LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.tokenizer",
+        "description": "youtube-rag.whisper.whisper.tokenizer",
+        "peekOfCode": "TO_LANGUAGE_CODE = {\n    **{language: code for code, language in LANGUAGES.items()},\n    \"burmese\": \"my\",\n    \"valencian\": \"ca\",\n    \"flemish\": \"nl\",\n    \"haitian\": \"ht\",\n    \"letzeburgesch\": \"lb\",\n    \"pushto\": \"ps\",\n    \"panjabi\": \"pa\",\n    \"moldavian\": \"ro\",",
+        "detail": "youtube-rag.whisper.whisper.tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "transcribe",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.transcribe",
+        "description": "youtube-rag.whisper.whisper.transcribe",
+        "peekOfCode": "def transcribe(\n    model: \"Whisper\",\n    audio: Union[str, np.ndarray, torch.Tensor],\n    *,\n    verbose: Optional[bool] = None,\n    temperature: Union[float, Tuple[float, ...]] = (0.0, 0.2, 0.4, 0.6, 0.8, 1.0),\n    compression_ratio_threshold: Optional[float] = 2.4,\n    logprob_threshold: Optional[float] = -1.0,\n    no_speech_threshold: Optional[float] = 0.6,\n    condition_on_previous_text: bool = True,",
+        "detail": "youtube-rag.whisper.whisper.transcribe",
+        "documentation": {}
+    },
+    {
+        "label": "cli",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.transcribe",
+        "description": "youtube-rag.whisper.whisper.transcribe",
+        "peekOfCode": "def cli():\n    from . import available_models\n    def valid_model_name(name):\n        if name in available_models() or os.path.exists(name):\n            return name\n        raise ValueError(\n            f\"model should be one of {available_models()} or path to a model checkpoint\"\n        )\n    # fmt: off\n    parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)",
+        "detail": "youtube-rag.whisper.whisper.transcribe",
+        "documentation": {}
+    },
+    {
+        "label": "dtw_kernel",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.triton_ops",
+        "description": "youtube-rag.whisper.whisper.triton_ops",
+        "peekOfCode": "def dtw_kernel(\n    cost, trace, x, x_stride, cost_stride, trace_stride, N, M, BLOCK_SIZE: tl.constexpr\n):\n    offsets = tl.arange(0, BLOCK_SIZE)\n    mask = offsets < M\n    for k in range(1, N + M + 1):  # k = i + j\n        tl.debug_barrier()\n        p0 = cost + (k - 1) * cost_stride\n        p1 = cost + k * cost_stride\n        p2 = cost + k * cost_stride + 1",
+        "detail": "youtube-rag.whisper.whisper.triton_ops",
+        "documentation": {}
+    },
+    {
+        "label": "median_kernel",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.triton_ops",
+        "description": "youtube-rag.whisper.whisper.triton_ops",
+        "peekOfCode": "def median_kernel(filter_width: int):\n    @triton.jit\n    def kernel(\n        y, x, x_stride, y_stride, BLOCK_SIZE: tl.constexpr\n    ):  # x.shape[-1] == filter_width\n        row_idx = tl.program_id(0)\n        offsets = tl.arange(0, BLOCK_SIZE)\n        mask = offsets < y_stride\n        x_ptr = x + row_idx * x_stride  # noqa: F841\n        y_ptr = y + row_idx * y_stride",
+        "detail": "youtube-rag.whisper.whisper.triton_ops",
+        "documentation": {}
+    },
+    {
+        "label": "median_filter_cuda",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.triton_ops",
+        "description": "youtube-rag.whisper.whisper.triton_ops",
+        "peekOfCode": "def median_filter_cuda(x: torch.Tensor, filter_width: int):\n    \"\"\"Apply a median filter of given width along the last dimension of x\"\"\"\n    slices = x.contiguous().unfold(-1, filter_width, 1)\n    grid = np.prod(slices.shape[:-2])\n    kernel = median_kernel(filter_width)\n    y = torch.empty_like(slices[..., 0])\n    BLOCK_SIZE = 1 << (y.stride(-2) - 1).bit_length()\n    kernel[(grid,)](y, x, x.stride(-2), y.stride(-2), BLOCK_SIZE=BLOCK_SIZE)\n    return y",
+        "detail": "youtube-rag.whisper.whisper.triton_ops",
+        "documentation": {}
+    },
+    {
+        "label": "ResultWriter",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "class ResultWriter:\n    extension: str\n    def __init__(self, output_dir: str):\n        self.output_dir = output_dir\n    def __call__(\n        self, result: dict, audio_path: str, options: Optional[dict] = None, **kwargs\n    ):\n        audio_basename = os.path.basename(audio_path)\n        audio_basename = os.path.splitext(audio_basename)[0]\n        output_path = os.path.join(",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "WriteTXT",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "class WriteTXT(ResultWriter):\n    extension: str = \"txt\"\n    def write_result(\n        self, result: dict, file: TextIO, options: Optional[dict] = None, **kwargs\n    ):\n        for segment in result[\"segments\"]:\n            print(segment[\"text\"].strip(), file=file, flush=True)\nclass SubtitlesWriter(ResultWriter):\n    always_include_hours: bool\n    decimal_marker: str",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "SubtitlesWriter",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "class SubtitlesWriter(ResultWriter):\n    always_include_hours: bool\n    decimal_marker: str\n    def iterate_result(\n        self,\n        result: dict,\n        options: Optional[dict] = None,\n        *,\n        max_line_width: Optional[int] = None,\n        max_line_count: Optional[int] = None,",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "WriteVTT",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "class WriteVTT(SubtitlesWriter):\n    extension: str = \"vtt\"\n    always_include_hours: bool = False\n    decimal_marker: str = \".\"\n    def write_result(\n        self, result: dict, file: TextIO, options: Optional[dict] = None, **kwargs\n    ):\n        print(\"WEBVTT\\n\", file=file)\n        for start, end, text in self.iterate_result(result, options, **kwargs):\n            print(f\"{start} --> {end}\\n{text}\\n\", file=file, flush=True)",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "WriteSRT",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "class WriteSRT(SubtitlesWriter):\n    extension: str = \"srt\"\n    always_include_hours: bool = True\n    decimal_marker: str = \",\"\n    def write_result(\n        self, result: dict, file: TextIO, options: Optional[dict] = None, **kwargs\n    ):\n        for i, (start, end, text) in enumerate(\n            self.iterate_result(result, options, **kwargs), start=1\n        ):",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "WriteTSV",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "class WriteTSV(ResultWriter):\n    \"\"\"\n    Write a transcript to a file in TSV (tab-separated values) format containing lines like:\n    <start time in integer milliseconds>\\t<end time in integer milliseconds>\\t<transcript text>\n    Using integer milliseconds as start and end times means there's no chance of interference from\n    an environment setting a language encoding that causes the decimal in a floating point number\n    to appear as a comma; also is faster and more efficient to parse & store, e.g., in C++.\n    \"\"\"\n    extension: str = \"tsv\"\n    def write_result(",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "WriteJSON",
+        "kind": 6,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "class WriteJSON(ResultWriter):\n    extension: str = \"json\"\n    def write_result(\n        self, result: dict, file: TextIO, options: Optional[dict] = None, **kwargs\n    ):\n        json.dump(result, file)\ndef get_writer(\n    output_format: str, output_dir: str\n) -> Callable[[dict, TextIO, dict], None]:\n    writers = {",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "exact_div",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "def exact_div(x, y):\n    assert x % y == 0\n    return x // y\ndef str2bool(string):\n    str2val = {\"True\": True, \"False\": False}\n    if string in str2val:\n        return str2val[string]\n    else:\n        raise ValueError(f\"Expected one of {set(str2val.keys())}, got {string}\")\ndef optional_int(string):",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "str2bool",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "def str2bool(string):\n    str2val = {\"True\": True, \"False\": False}\n    if string in str2val:\n        return str2val[string]\n    else:\n        raise ValueError(f\"Expected one of {set(str2val.keys())}, got {string}\")\ndef optional_int(string):\n    return None if string == \"None\" else int(string)\ndef optional_float(string):\n    return None if string == \"None\" else float(string)",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "optional_int",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "def optional_int(string):\n    return None if string == \"None\" else int(string)\ndef optional_float(string):\n    return None if string == \"None\" else float(string)\ndef compression_ratio(text) -> float:\n    text_bytes = text.encode(\"utf-8\")\n    return len(text_bytes) / len(zlib.compress(text_bytes))\ndef format_timestamp(\n    seconds: float, always_include_hours: bool = False, decimal_marker: str = \".\"\n):",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "optional_float",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "def optional_float(string):\n    return None if string == \"None\" else float(string)\ndef compression_ratio(text) -> float:\n    text_bytes = text.encode(\"utf-8\")\n    return len(text_bytes) / len(zlib.compress(text_bytes))\ndef format_timestamp(\n    seconds: float, always_include_hours: bool = False, decimal_marker: str = \".\"\n):\n    assert seconds >= 0, \"non-negative timestamp expected\"\n    milliseconds = round(seconds * 1000.0)",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "compression_ratio",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "def compression_ratio(text) -> float:\n    text_bytes = text.encode(\"utf-8\")\n    return len(text_bytes) / len(zlib.compress(text_bytes))\ndef format_timestamp(\n    seconds: float, always_include_hours: bool = False, decimal_marker: str = \".\"\n):\n    assert seconds >= 0, \"non-negative timestamp expected\"\n    milliseconds = round(seconds * 1000.0)\n    hours = milliseconds // 3_600_000\n    milliseconds -= hours * 3_600_000",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_timestamp",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "def format_timestamp(\n    seconds: float, always_include_hours: bool = False, decimal_marker: str = \".\"\n):\n    assert seconds >= 0, \"non-negative timestamp expected\"\n    milliseconds = round(seconds * 1000.0)\n    hours = milliseconds // 3_600_000\n    milliseconds -= hours * 3_600_000\n    minutes = milliseconds // 60_000\n    milliseconds -= minutes * 60_000\n    seconds = milliseconds // 1_000",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_start",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "def get_start(segments: List[dict]) -> Optional[float]:\n    return next(\n        (w[\"start\"] for s in segments for w in s[\"words\"]),\n        segments[0][\"start\"] if segments else None,\n    )\ndef get_end(segments: List[dict]) -> Optional[float]:\n    return next(\n        (w[\"end\"] for s in reversed(segments) for w in reversed(s[\"words\"])),\n        segments[-1][\"end\"] if segments else None,\n    )",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_end",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "def get_end(segments: List[dict]) -> Optional[float]:\n    return next(\n        (w[\"end\"] for s in reversed(segments) for w in reversed(s[\"words\"])),\n        segments[-1][\"end\"] if segments else None,\n    )\nclass ResultWriter:\n    extension: str\n    def __init__(self, output_dir: str):\n        self.output_dir = output_dir\n    def __call__(",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_writer",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "def get_writer(\n    output_format: str, output_dir: str\n) -> Callable[[dict, TextIO, dict], None]:\n    writers = {\n        \"txt\": WriteTXT,\n        \"vtt\": WriteVTT,\n        \"srt\": WriteSRT,\n        \"tsv\": WriteTSV,\n        \"json\": WriteJSON,\n    }",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "system_encoding",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.utils",
+        "description": "youtube-rag.whisper.whisper.utils",
+        "peekOfCode": "system_encoding = sys.getdefaultencoding()\nif system_encoding != \"utf-8\":\n    def make_safe(string):\n        # replaces any character not representable using the system default encoding with an '?',\n        # avoiding UnicodeEncodeError (https://github.com/openai/whisper/discussions/729).\n        return string.encode(system_encoding, errors=\"replace\").decode(system_encoding)\nelse:\n    def make_safe(string):\n        # utf-8 can encode any Unicode code point, so no need to do the round-trip encoding\n        return string",
+        "detail": "youtube-rag.whisper.whisper.utils",
+        "documentation": {}
+    },
+    {
+        "label": "__version__",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.whisper.version",
+        "description": "youtube-rag.whisper.whisper.version",
+        "peekOfCode": "__version__ = \"20240927\"",
+        "detail": "youtube-rag.whisper.whisper.version",
+        "documentation": {}
+    },
+    {
+        "label": "read_version",
+        "kind": 2,
+        "importPath": "youtube-rag.whisper.setup",
+        "description": "youtube-rag.whisper.setup",
+        "peekOfCode": "def read_version(fname=\"whisper/version.py\"):\n    exec(compile(open(fname, encoding=\"utf-8\").read(), fname, \"exec\"))\n    return locals()[\"__version__\"]\nrequirements = []\nif sys.platform.startswith(\"linux\") and platform.machine() == \"x86_64\":\n    requirements.append(\"triton>=2.0.0\")\nsetup(\n    name=\"openai-whisper\",\n    py_modules=[\"whisper\"],\n    version=read_version(),",
+        "detail": "youtube-rag.whisper.setup",
+        "documentation": {}
+    },
+    {
+        "label": "requirements",
+        "kind": 5,
+        "importPath": "youtube-rag.whisper.setup",
+        "description": "youtube-rag.whisper.setup",
+        "peekOfCode": "requirements = []\nif sys.platform.startswith(\"linux\") and platform.machine() == \"x86_64\":\n    requirements.append(\"triton>=2.0.0\")\nsetup(\n    name=\"openai-whisper\",\n    py_modules=[\"whisper\"],\n    version=read_version(),\n    description=\"Robust Speech Recognition via Large-Scale Weak Supervision\",\n    long_description=open(\"README.md\", encoding=\"utf-8\").read(),\n    long_description_content_type=\"text/markdown\",",
+        "detail": "youtube-rag.whisper.setup",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_pdf",
+        "kind": 2,
+        "importPath": "cleaningpdfs",
+        "description": "cleaningpdfs",
+        "peekOfCode": "def extract_text_from_pdf(pdf_path):\n    reader = PdfReader(pdf_path)\n    text = \"\"\n    for page in reader.pages:\n        text += page.extract_text() + \"\\n\"\n    return text\n# Extract text from the original PDFs\ncontent_1_original = extract_text_from_pdf(pdf_1_original_path)\ncontent_2_original = extract_text_from_pdf(pdf_2_original_path)\n# Add improved structure and headings to the original content (manually structuring based on analysis)",
+        "detail": "cleaningpdfs",
+        "documentation": {}
+    },
+    {
+        "label": "create_pdf",
+        "kind": 2,
+        "importPath": "cleaningpdfs",
+        "description": "cleaningpdfs",
+        "peekOfCode": "def create_pdf(title, content, output_path, font_path):\n    pdf = FPDF()\n    pdf.set_auto_page_break(auto=True, margin=15)\n    pdf.add_page()\n    pdf.add_font(\"FreeSerif\", '', font_path, uni=True)  # Add the Unicode-compatible font\n    pdf.set_font(\"FreeSerif\", '', 16)\n    pdf.cell(200, 10, title, ln=True, align='C')\n    pdf.set_font(\"FreeSerif\", '', 12)\n    pdf.ln(10)\n    # Add headings and paragraphs",
+        "detail": "cleaningpdfs",
+        "documentation": {}
+    },
+    {
+        "label": "pdf_1_original_path",
+        "kind": 5,
+        "importPath": "cleaningpdfs",
+        "description": "cleaningpdfs",
+        "peekOfCode": "pdf_1_original_path = r\"C:\\Users\\13459\\Dropbox\\Businesses\\Rugby Tribe\\20241101 Angus Gerro Audio\\AUDIO_Transcript_1.pdf\"\npdf_2_original_path = r\"C:\\Users\\13459\\Dropbox\\Businesses\\Rugby Tribe\\20241101 Angus Gerro Audio\\AUDIO_Transcript_2.pdf\"\n# Helper function to extract text from a PDF\ndef extract_text_from_pdf(pdf_path):\n    reader = PdfReader(pdf_path)\n    text = \"\"\n    for page in reader.pages:\n        text += page.extract_text() + \"\\n\"\n    return text\n# Extract text from the original PDFs",
+        "detail": "cleaningpdfs",
+        "documentation": {}
+    },
+    {
+        "label": "pdf_2_original_path",
+        "kind": 5,
+        "importPath": "cleaningpdfs",
+        "description": "cleaningpdfs",
+        "peekOfCode": "pdf_2_original_path = r\"C:\\Users\\13459\\Dropbox\\Businesses\\Rugby Tribe\\20241101 Angus Gerro Audio\\AUDIO_Transcript_2.pdf\"\n# Helper function to extract text from a PDF\ndef extract_text_from_pdf(pdf_path):\n    reader = PdfReader(pdf_path)\n    text = \"\"\n    for page in reader.pages:\n        text += page.extract_text() + \"\\n\"\n    return text\n# Extract text from the original PDFs\ncontent_1_original = extract_text_from_pdf(pdf_1_original_path)",
+        "detail": "cleaningpdfs",
+        "documentation": {}
+    },
+    {
+        "label": "content_1_original",
+        "kind": 5,
+        "importPath": "cleaningpdfs",
+        "description": "cleaningpdfs",
+        "peekOfCode": "content_1_original = extract_text_from_pdf(pdf_1_original_path)\ncontent_2_original = extract_text_from_pdf(pdf_2_original_path)\n# Add improved structure and headings to the original content (manually structuring based on analysis)\ncontent_1 = f\"\"\"\nAudio Transcript - Conversation 1: Structured Version\n1. Introduction to the Discussion\n{content_1_original[:300]}\n2. Flow State in Team Games\n{content_1_original[300:700]}\n3. Balancing Team Dynamics",
+        "detail": "cleaningpdfs",
+        "documentation": {}
+    },
+    {
+        "label": "content_2_original",
+        "kind": 5,
+        "importPath": "cleaningpdfs",
+        "description": "cleaningpdfs",
+        "peekOfCode": "content_2_original = extract_text_from_pdf(pdf_2_original_path)\n# Add improved structure and headings to the original content (manually structuring based on analysis)\ncontent_1 = f\"\"\"\nAudio Transcript - Conversation 1: Structured Version\n1. Introduction to the Discussion\n{content_1_original[:300]}\n2. Flow State in Team Games\n{content_1_original[300:700]}\n3. Balancing Team Dynamics\n{content_1_original[700:1200]}",
+        "detail": "cleaningpdfs",
+        "documentation": {}
+    },
+    {
+        "label": "content_1",
+        "kind": 5,
+        "importPath": "cleaningpdfs",
+        "description": "cleaningpdfs",
+        "peekOfCode": "content_1 = f\"\"\"\nAudio Transcript - Conversation 1: Structured Version\n1. Introduction to the Discussion\n{content_1_original[:300]}\n2. Flow State in Team Games\n{content_1_original[300:700]}\n3. Balancing Team Dynamics\n{content_1_original[700:1200]}\n4. Game Design Considerations\n{content_1_original[1200:]}",
+        "detail": "cleaningpdfs",
+        "documentation": {}
+    },
+    {
+        "label": "content_2",
+        "kind": 5,
+        "importPath": "cleaningpdfs",
+        "description": "cleaningpdfs",
+        "peekOfCode": "content_2 = f\"\"\"\nAudio Transcript - Conversation 2: Structured Version\n1. Introduction\n{content_2_original[:300]}\n2. Adapting Games for Player Experience\n{content_2_original[300:700]}\n3. Role of Technology in Coaching\n{content_2_original[700:1100]}\n4. Structuring Effective Training Sessions\n{content_2_original[1100:]}",
+        "detail": "cleaningpdfs",
+        "documentation": {}
+    },
+    {
+        "label": "output_folder_path",
+        "kind": 5,
+        "importPath": "cleaningpdfs",
+        "description": "cleaningpdfs",
+        "peekOfCode": "output_folder_path = r\"C:\\Users\\13459\\Dropbox\\Businesses\\Rugby Tribe\\20241101 Angus Gerro Audio\"\npdf_1_structured_path = os.path.join(output_folder_path, \"AUDIO_Transcript_1_Structured.pdf\")\npdf_2_structured_path = os.path.join(output_folder_path, \"AUDIO_Transcript_2_Structured.pdf\")\n# Path to the FreeSerif font\nfont_path = r\"C:\\Users\\13459\\Dropbox\\Businesses\\Rugby Tribe\\20241101 Angus Gerro Audio\\FreeSerif.ttf\"\n# Create the PDFs using the specified font\ncreate_pdf(\"Audio Transcript - Conversation 1: Structured Version\", content_1, pdf_1_structured_path, font_path)\ncreate_pdf(\"Audio Transcript - Conversation 2: Structured Version\", content_2, pdf_2_structured_path, font_path)\nprint(f\"PDFs created successfully:\\n1. {pdf_1_structured_path}\\n2. {pdf_2_structured_path}\")",
+        "detail": "cleaningpdfs",
+        "documentation": {}
+    },
+    {
+        "label": "pdf_1_structured_path",
+        "kind": 5,
+        "importPath": "cleaningpdfs",
+        "description": "cleaningpdfs",
+        "peekOfCode": "pdf_1_structured_path = os.path.join(output_folder_path, \"AUDIO_Transcript_1_Structured.pdf\")\npdf_2_structured_path = os.path.join(output_folder_path, \"AUDIO_Transcript_2_Structured.pdf\")\n# Path to the FreeSerif font\nfont_path = r\"C:\\Users\\13459\\Dropbox\\Businesses\\Rugby Tribe\\20241101 Angus Gerro Audio\\FreeSerif.ttf\"\n# Create the PDFs using the specified font\ncreate_pdf(\"Audio Transcript - Conversation 1: Structured Version\", content_1, pdf_1_structured_path, font_path)\ncreate_pdf(\"Audio Transcript - Conversation 2: Structured Version\", content_2, pdf_2_structured_path, font_path)\nprint(f\"PDFs created successfully:\\n1. {pdf_1_structured_path}\\n2. {pdf_2_structured_path}\")",
+        "detail": "cleaningpdfs",
+        "documentation": {}
+    },
+    {
+        "label": "pdf_2_structured_path",
+        "kind": 5,
+        "importPath": "cleaningpdfs",
+        "description": "cleaningpdfs",
+        "peekOfCode": "pdf_2_structured_path = os.path.join(output_folder_path, \"AUDIO_Transcript_2_Structured.pdf\")\n# Path to the FreeSerif font\nfont_path = r\"C:\\Users\\13459\\Dropbox\\Businesses\\Rugby Tribe\\20241101 Angus Gerro Audio\\FreeSerif.ttf\"\n# Create the PDFs using the specified font\ncreate_pdf(\"Audio Transcript - Conversation 1: Structured Version\", content_1, pdf_1_structured_path, font_path)\ncreate_pdf(\"Audio Transcript - Conversation 2: Structured Version\", content_2, pdf_2_structured_path, font_path)\nprint(f\"PDFs created successfully:\\n1. {pdf_1_structured_path}\\n2. {pdf_2_structured_path}\")",
+        "detail": "cleaningpdfs",
+        "documentation": {}
+    },
+    {
+        "label": "font_path",
+        "kind": 5,
+        "importPath": "cleaningpdfs",
+        "description": "cleaningpdfs",
+        "peekOfCode": "font_path = r\"C:\\Users\\13459\\Dropbox\\Businesses\\Rugby Tribe\\20241101 Angus Gerro Audio\\FreeSerif.ttf\"\n# Create the PDFs using the specified font\ncreate_pdf(\"Audio Transcript - Conversation 1: Structured Version\", content_1, pdf_1_structured_path, font_path)\ncreate_pdf(\"Audio Transcript - Conversation 2: Structured Version\", content_2, pdf_2_structured_path, font_path)\nprint(f\"PDFs created successfully:\\n1. {pdf_1_structured_path}\\n2. {pdf_2_structured_path}\")",
+        "detail": "cleaningpdfs",
+        "documentation": {}
+    },
+    {
+        "label": "openai_api_key",
+        "kind": 5,
+        "importPath": "pineconerugby4",
+        "description": "pineconerugby4",
+        "peekOfCode": "openai_api_key = os.getenv(\"OPENAI_API_KEY\")\npinecone_api_key = os.getenv(\"PINECONE_API_KEY\")\n# Set the API keys\nos.environ[\"OPENAI_API_KEY\"] = openai_api_key\nos.environ[\"PINECONE_API_KEY\"] = pinecone_api_key\n# Initialize Streamlit state\nif 'qa_chain' not in st.session_state:\n    # Initialize embeddings\n    embeddings = OpenAIEmbeddings(\n        model=\"text-embedding-3-small\"",
+        "detail": "pineconerugby4",
+        "documentation": {}
+    },
+    {
+        "label": "pinecone_api_key",
+        "kind": 5,
+        "importPath": "pineconerugby4",
+        "description": "pineconerugby4",
+        "peekOfCode": "pinecone_api_key = os.getenv(\"PINECONE_API_KEY\")\n# Set the API keys\nos.environ[\"OPENAI_API_KEY\"] = openai_api_key\nos.environ[\"PINECONE_API_KEY\"] = pinecone_api_key\n# Initialize Streamlit state\nif 'qa_chain' not in st.session_state:\n    # Initialize embeddings\n    embeddings = OpenAIEmbeddings(\n        model=\"text-embedding-3-small\"\n    )",
+        "detail": "pineconerugby4",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"OPENAI_API_KEY\"]",
+        "kind": 5,
+        "importPath": "pineconerugby4",
+        "description": "pineconerugby4",
+        "peekOfCode": "os.environ[\"OPENAI_API_KEY\"] = openai_api_key\nos.environ[\"PINECONE_API_KEY\"] = pinecone_api_key\n# Initialize Streamlit state\nif 'qa_chain' not in st.session_state:\n    # Initialize embeddings\n    embeddings = OpenAIEmbeddings(\n        model=\"text-embedding-3-small\"\n    )\n    # Initialize vector store\n    index_name = \"pinecone-chatbot2\"",
+        "detail": "pineconerugby4",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PINECONE_API_KEY\"]",
+        "kind": 5,
+        "importPath": "pineconerugby4",
+        "description": "pineconerugby4",
+        "peekOfCode": "os.environ[\"PINECONE_API_KEY\"] = pinecone_api_key\n# Initialize Streamlit state\nif 'qa_chain' not in st.session_state:\n    # Initialize embeddings\n    embeddings = OpenAIEmbeddings(\n        model=\"text-embedding-3-small\"\n    )\n    # Initialize vector store\n    index_name = \"pinecone-chatbot2\"\n    vectorstore = PineconeVectorStore.from_existing_index(",
+        "detail": "pineconerugby4",
+        "documentation": {}
+    },
+    {
+        "label": "check_ffmpeg",
+        "kind": 2,
+        "importPath": "transcribeaudio",
+        "description": "transcribeaudio",
+        "peekOfCode": "def check_ffmpeg():\n    \"\"\"Check if ffmpeg is installed and accessible\"\"\"\n    try:\n        subprocess.run(['ffmpeg', '-version'], capture_output=True, check=True)\n        return True\n    except (subprocess.SubprocessError, FileNotFoundError):\n        print(\"Error: ffmpeg is not installed or not found in system PATH\")\n        print(\"\\nTo install ffmpeg:\")\n        if os.name == 'nt':  # Windows\n            print(\"1. Using chocolatey (recommended):\")",
+        "detail": "transcribeaudio",
+        "documentation": {}
+    },
+    {
+        "label": "transcribe_audio",
+        "kind": 2,
+        "importPath": "transcribeaudio",
+        "description": "transcribeaudio",
+        "peekOfCode": "def transcribe_audio(file_path, output_dir=None):\n    \"\"\"\n    Transcribe an audio file using OpenAI's Whisper model\n    Args:\n        file_path (str): Path to the audio file\n        output_dir (str, optional): Directory to save the transcript. If None, saves in same directory as audio\n    \"\"\"\n    try:\n        # Verify file exists\n        if not os.path.exists(file_path):",
+        "detail": "transcribeaudio",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "transcribeaudio",
+        "description": "transcribeaudio",
+        "peekOfCode": "def main():\n    # First check if ffmpeg is installed\n    if not check_ffmpeg():\n        sys.exit(1)\n    # Directory containing the audio files\n    directory = r\"C:\\Users\\13459\\Dropbox\\Businesses\\Rugby Tribe\\20241101 Angus Gerro Audio\"\n    # List of files to transcribe\n    files = [\n        \"AUDIO-2024-10-26-13-38-56 (1).m4a\",\n        \"AUDIO-2024-10-26-13-38-56.m4a\"",
+        "detail": "transcribeaudio",
+        "documentation": {}
+    }
+]
