@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 .vscode/
 .env
+cleaningpdfs.py
+pineconerugby2.ipynb
+pineconerugby5.py
+pineconeupdate3.py
+pineconeupdate4.py
+transcribeaudio.py
