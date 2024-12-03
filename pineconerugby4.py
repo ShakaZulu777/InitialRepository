@@ -29,7 +29,7 @@ if 'qa_chain' not in st.session_state:
     )
 
     # Initialize vector store
-    index_name = "pinecone-chatbot2"
+    index_name = "pinecone-chatbot20241201"
     vectorstore = PineconeVectorStore.from_existing_index(
         embedding=embeddings,
         index_name=index_name

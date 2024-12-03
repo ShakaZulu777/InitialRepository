@@ -424,6 +424,22 @@
         "documentation": {}
     },
     {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
         "label": "OpenAIEmbeddings",
         "importPath": "langchain_openai",
         "description": "langchain_openai",
@@ -448,11 +464,67 @@
         "documentation": {}
     },
     {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
         "label": "RetrievalQA",
         "importPath": "langchain.chains",
         "description": "langchain.chains",
         "isExtraImport": true,
         "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "RetrievalQA",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "RetrievalQA",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
         "documentation": {}
     },
     {
@@ -525,6 +597,46 @@
         "description": "pinecone",
         "isExtraImport": true,
         "detail": "pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "DirectoryLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDFLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "DirectoryLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
         "documentation": {}
     },
     {
@@ -1098,7 +1210,7 @@
         "kind": 5,
         "importPath": "pineconerugby4",
         "description": "pineconerugby4",
-        "peekOfCode": "os.environ[\"OPENAI_API_KEY\"] = openai_api_key\nos.environ[\"PINECONE_API_KEY\"] = pinecone_api_key\n# Initialize Streamlit state\nif 'qa_chain' not in st.session_state:\n    # Initialize embeddings\n    embeddings = OpenAIEmbeddings(\n        model=\"text-embedding-3-small\"\n    )\n    # Initialize vector store\n    index_name = \"pinecone-chatbot2\"",
+        "peekOfCode": "os.environ[\"OPENAI_API_KEY\"] = openai_api_key\nos.environ[\"PINECONE_API_KEY\"] = pinecone_api_key\n# Initialize Streamlit state\nif 'qa_chain' not in st.session_state:\n    # Initialize embeddings\n    embeddings = OpenAIEmbeddings(\n        model=\"text-embedding-3-small\"\n    )\n    # Initialize vector store\n    index_name = \"pinecone-chatbot20241201\"",
         "detail": "pineconerugby4",
         "documentation": {}
     },
@@ -1107,7 +1219,7 @@
         "kind": 5,
         "importPath": "pineconerugby4",
         "description": "pineconerugby4",
-        "peekOfCode": "os.environ[\"PINECONE_API_KEY\"] = pinecone_api_key\n# Initialize Streamlit state\nif 'qa_chain' not in st.session_state:\n    # Initialize embeddings\n    embeddings = OpenAIEmbeddings(\n        model=\"text-embedding-3-small\"\n    )\n    # Initialize vector store\n    index_name = \"pinecone-chatbot2\"\n    vectorstore = PineconeVectorStore.from_existing_index(",
+        "peekOfCode": "os.environ[\"PINECONE_API_KEY\"] = pinecone_api_key\n# Initialize Streamlit state\nif 'qa_chain' not in st.session_state:\n    # Initialize embeddings\n    embeddings = OpenAIEmbeddings(\n        model=\"text-embedding-3-small\"\n    )\n    # Initialize vector store\n    index_name = \"pinecone-chatbot20241201\"\n    vectorstore = PineconeVectorStore.from_existing_index(",
         "detail": "pineconerugby4",
         "documentation": {}
     },
@@ -1127,6 +1239,168 @@
         "description": "pineconerugby5",
         "peekOfCode": "pinecone_api_key = os.getenv(\"PINECONE_API_KEY\")\ntry:\n    # Initialize Pinecone client\n    pc = Pinecone(api_key=pinecone_api_key)\n    # Set the index name\n    index_name = \"pinecone-chatbot2\"\n    # Check if the index exists; if not, create it\n    if index_name not in pc.list_indexes().names():\n        pc.create_index(\n            name=index_name,",
         "detail": "pineconerugby5",
+        "documentation": {}
+    },
+    {
+        "label": "#OPENAI_API_KEY",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "#OPENAI_API_KEY = \"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\"\n#api_key=\"1bf1a481-2592-49f1-bb60-cdc5a4c001aa\"\n#PINECONE_API_KEY = \"pcsk_5HTNtq_ARDZoWRjCCfYifzKAaH1uHjHypqyw8y5T5RfpX2qXyQfiX9cZW6dq9JoNicCtUE\"\n# Following tutorial\n# https://www.youtube.com/watch?v=Bxj4btI3TzY\nfrom langchain_pinecone import PineconeVectorStore\nfrom langchain_openai import OpenAIEmbeddings\nfrom langchain_community.document_loaders import DirectoryLoader\nfrom langchain_text_splitters import RecursiveCharacterTextSplitter\nimport os",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "#PINECONE_API_KEY",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "#PINECONE_API_KEY = \"pcsk_5HTNtq_ARDZoWRjCCfYifzKAaH1uHjHypqyw8y5T5RfpX2qXyQfiX9cZW6dq9JoNicCtUE\"\n# Following tutorial\n# https://www.youtube.com/watch?v=Bxj4btI3TzY\nfrom langchain_pinecone import PineconeVectorStore\nfrom langchain_openai import OpenAIEmbeddings\nfrom langchain_community.document_loaders import DirectoryLoader\nfrom langchain_text_splitters import RecursiveCharacterTextSplitter\nimport os\nimport glob\n# %%",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "loader = DirectoryLoader(r\"C:\\Users\\13459\\Dropbox\\Businesses\\Rugby Tribe\\20241102 RAG Database\",glob=\"**/*.pdf\")\ndocs = loader.load()\n# %%\ndocs[0]\n# %%\nimport os\n# Set OpenAI API key\n#os.environ[\"OPENAI_API_KEY\"] = \"\"\n# Set Pinecone API key\n#os.environ[\"PINECONE_API_KEY\"] = \"\"",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "docs",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "docs = loader.load()\n# %%\ndocs[0]\n# %%\nimport os\n# Set OpenAI API key\n#os.environ[\"OPENAI_API_KEY\"] = \"\"\n# Set Pinecone API key\n#os.environ[\"PINECONE_API_KEY\"] = \"\"\n# %%",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "#os.environ[\"OPENAI_API_KEY\"]",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "#os.environ[\"OPENAI_API_KEY\"] = \"\"\n# Set Pinecone API key\n#os.environ[\"PINECONE_API_KEY\"] = \"\"\n# %%\nembeddings = OpenAIEmbeddings(\n    model=\"text-embedding-3-small\"\n)\nindex_name = \"pinecone-chatbot20241201\"\n# Split our documents into chunks\ntext_splitter = RecursiveCharacterTextSplitter()",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "#os.environ[\"PINECONE_API_KEY\"]",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "#os.environ[\"PINECONE_API_KEY\"] = \"\"\n# %%\nembeddings = OpenAIEmbeddings(\n    model=\"text-embedding-3-small\"\n)\nindex_name = \"pinecone-chatbot20241201\"\n# Split our documents into chunks\ntext_splitter = RecursiveCharacterTextSplitter()\nsplit_docs = text_splitter.split_documents(docs)\n# %%",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(\n    model=\"text-embedding-3-small\"\n)\nindex_name = \"pinecone-chatbot20241201\"\n# Split our documents into chunks\ntext_splitter = RecursiveCharacterTextSplitter()\nsplit_docs = text_splitter.split_documents(docs)\n# %%\nsplit_docs[0]\n# %%",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "index_name",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "index_name = \"pinecone-chatbot20241201\"\n# Split our documents into chunks\ntext_splitter = RecursiveCharacterTextSplitter()\nsplit_docs = text_splitter.split_documents(docs)\n# %%\nsplit_docs[0]\n# %%\nvectorstore = PineconeVectorStore.from_documents(split_docs, embeddings, index_name=index_name)\n# %%\nquery = \"What are two examples of Front Row Hooker Binds?\"",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "text_splitter",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "text_splitter = RecursiveCharacterTextSplitter()\nsplit_docs = text_splitter.split_documents(docs)\n# %%\nsplit_docs[0]\n# %%\nvectorstore = PineconeVectorStore.from_documents(split_docs, embeddings, index_name=index_name)\n# %%\nquery = \"What are two examples of Front Row Hooker Binds?\"\nsimilar_docs = vectorstore.similarity_search(query)\n# %%",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "split_docs",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "split_docs = text_splitter.split_documents(docs)\n# %%\nsplit_docs[0]\n# %%\nvectorstore = PineconeVectorStore.from_documents(split_docs, embeddings, index_name=index_name)\n# %%\nquery = \"What are two examples of Front Row Hooker Binds?\"\nsimilar_docs = vectorstore.similarity_search(query)\n# %%\nsimilar_docs[0]",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "vectorstore",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "vectorstore = PineconeVectorStore.from_documents(split_docs, embeddings, index_name=index_name)\n# %%\nquery = \"What are two examples of Front Row Hooker Binds?\"\nsimilar_docs = vectorstore.similarity_search(query)\n# %%\nsimilar_docs[0]\n# %%\nfrom langchain_openai import ChatOpenAI\nfrom langchain.chains import RetrievalQA\nllm = ChatOpenAI(",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "query",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "query = \"What are two examples of Front Row Hooker Binds?\"\nsimilar_docs = vectorstore.similarity_search(query)\n# %%\nsimilar_docs[0]\n# %%\nfrom langchain_openai import ChatOpenAI\nfrom langchain.chains import RetrievalQA\nllm = ChatOpenAI(\n    model = \"gpt-4o\",\n    temperature = 0",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "similar_docs",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "similar_docs = vectorstore.similarity_search(query)\n# %%\nsimilar_docs[0]\n# %%\nfrom langchain_openai import ChatOpenAI\nfrom langchain.chains import RetrievalQA\nllm = ChatOpenAI(\n    model = \"gpt-4o\",\n    temperature = 0\n)",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "llm = ChatOpenAI(\n    model = \"gpt-4o\",\n    temperature = 0\n)\nqa = RetrievalQA.from_chain_type(\n    llm = llm,\n    chain_type = \"stuff\",\n    retriever=vectorstore.as_retriever()\n)\nqa.invoke(query)",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "qa",
+        "kind": 5,
+        "importPath": "pineconeupdate3",
+        "description": "pineconeupdate3",
+        "peekOfCode": "qa = RetrievalQA.from_chain_type(\n    llm = llm,\n    chain_type = \"stuff\",\n    retriever=vectorstore.as_retriever()\n)\nqa.invoke(query)",
+        "detail": "pineconeupdate3",
+        "documentation": {}
+    },
+    {
+        "label": "load_pdfs",
+        "kind": 2,
+        "importPath": "pineconeupdate4",
+        "description": "pineconeupdate4",
+        "peekOfCode": "def load_pdfs(directory):\n    \"\"\"Load PDFs using PyPDFLoader instead of Unstructured\"\"\"\n    documents = []\n    for filename in os.listdir(directory):\n        if filename.endswith('.pdf'):\n            try:\n                file_path = os.path.join(directory, filename)\n                loader = PyPDFLoader(file_path)\n                documents.extend(loader.load())\n                print(f\"Successfully loaded {filename}\")",
+        "detail": "pineconeupdate4",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "pineconeupdate4",
+        "description": "pineconeupdate4",
+        "peekOfCode": "def main():\n    try:\n        # Load documents\n        print(\"Loading documents...\")\n        docs = load_pdfs(directory_path)\n        print(f\"Loaded {len(docs)} documents\")\n        # Split documents\n        print(\"Splitting documents...\")\n        text_splitter = RecursiveCharacterTextSplitter(\n            chunk_size=1000,",
+        "detail": "pineconeupdate4",
+        "documentation": {}
+    },
+    {
+        "label": "directory_path",
+        "kind": 5,
+        "importPath": "pineconeupdate4",
+        "description": "pineconeupdate4",
+        "peekOfCode": "directory_path = r\"C:\\Users\\13459\\Dropbox\\Businesses\\Rugby Tribe\\20241102 RAG Database\"\ndef load_pdfs(directory):\n    \"\"\"Load PDFs using PyPDFLoader instead of Unstructured\"\"\"\n    documents = []\n    for filename in os.listdir(directory):\n        if filename.endswith('.pdf'):\n            try:\n                file_path = os.path.join(directory, filename)\n                loader = PyPDFLoader(file_path)\n                documents.extend(loader.load())",
+        "detail": "pineconeupdate4",
         "documentation": {}
     },
     {
