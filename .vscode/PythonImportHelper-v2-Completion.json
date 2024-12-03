@@ -440,14 +440,6 @@
         "documentation": {}
     },
     {
-        "label": "OpenAIEmbeddings",
-        "importPath": "langchain_openai",
-        "description": "langchain_openai",
-        "isExtraImport": true,
-        "detail": "langchain_openai",
-        "documentation": {}
-    },
-    {
         "label": "ChatOpenAI",
         "importPath": "langchain_openai",
         "description": "langchain_openai",
@@ -480,11 +472,11 @@
         "documentation": {}
     },
     {
-        "label": "Pinecone",
-        "importPath": "langchain_community.vectorstores",
-        "description": "langchain_community.vectorstores",
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_community.embeddings.openai",
+        "description": "langchain_community.embeddings.openai",
         "isExtraImport": true,
-        "detail": "langchain_community.vectorstores",
+        "detail": "langchain_community.embeddings.openai",
         "documentation": {}
     },
     {
@@ -509,6 +501,14 @@
         "description": "langchain_core.prompts",
         "isExtraImport": true,
         "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "Pinecone",
+        "importPath": "langchain_community.vectorstores.pinecone",
+        "description": "langchain_community.vectorstores.pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores.pinecone",
         "documentation": {}
     },
     {
