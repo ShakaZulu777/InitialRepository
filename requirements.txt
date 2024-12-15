@@ -19,3 +19,9 @@ python-dotenv
 # Optional dependencies
 PyPDF2
 transformers
+
+# Language dependencies
+pydub
+SpeechRecognition
+gtts
+pyaudio
