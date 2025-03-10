@@ -25,3 +25,5 @@ pydub
 SpeechRecognition
 gtts
 pyaudio
+elevenlabs
+pydub
